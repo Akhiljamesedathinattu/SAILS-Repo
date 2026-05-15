@@ -1,4 +1,4 @@
-def matrixi():
+def most_unique():
     test_dict = {"Gfg" : [5, 7, 7, 7, 7],"Best" : [9, 9, 6, 5, 5], "is" : [6, 7, 7, 8,9,3,4,7], }
     #print(test_dict)
     c=0
@@ -17,7 +17,7 @@ def matrixi():
 
 
 def mymain():
-    matrixi()
+    most_unique()
 
 
 

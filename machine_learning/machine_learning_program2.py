@@ -1,13 +1,12 @@
 from sklearn.linear_model import LinearRegression
-from sklearn.datasets import fetch_california_housing
+from sklearn.datasets import load_diabetes
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import r2_score
 
 
 
-
 def load_data():
-    [X,y]=fetch_california_housing(return_X_y=True)
+    [X,y]=load_diabetes(return_X_y=True)
 
     return(X,y)
 
@@ -16,7 +15,7 @@ def load_data():
 
 def mymain():
     [X,y]=load_data()
-    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.30, random_state=55)
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.20, random_state=999)
     print('----------TRAINING----------')
     print("N=%d"% (len(X)))
     #training  LINEAR REGRESSION
