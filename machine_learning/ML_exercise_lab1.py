@@ -1,5 +1,6 @@
 import matplotlib as mpl
 import matplotlib.pyplot as plt
+import numpy as np
 def transpose():
     A = [
         [1, 2, 3],
@@ -18,7 +19,7 @@ def transpose():
     print(AT)
 
 
-    # Compute ATA = AT × A
+    #  ATA = AT × A
     ATA = []
 
     for i in range(len(AT)):
@@ -42,7 +43,63 @@ def transpose():
         print(row)
 def mymain():
     transpose()
+
+
+    x1 = np.linspace(-100, 100, 100)
+    y = 2 * x1 + 3
+
+    plt.plot(x1, y)
+    plt.xlabel("x1")
+    plt.ylabel("y")
+    plt.title("y = 2x1 + 3")
+    plt.grid(True)
+    plt.show()
     # Print result
+
+
+    x1 = np.linspace(-10, 10, 100)
+    y = 2 * x1 ** 2 + 3 * x1 + 4
+
+    plt.plot(x1, y)
+    plt.xlabel("x1")
+    plt.ylabel("y")
+    plt.title("y = 2x1^2 + 3x1 + 4")
+    plt.grid(True)
+    plt.show()
+
+    mu = 0
+    sigma = 15
+
+    x = np.linspace(-100, 100, 100)
+
+    pdf = (1 / (sigma * np.sqrt(2 * np.pi))) * \
+          np.exp(-((x - mu) ** 2) / (2 * sigma ** 2))
+
+    plt.plot(x, pdf)
+    plt.xlabel("x")
+    plt.ylabel("PDF")
+    plt.title("Gaussian PDF")
+    plt.grid(True)
+    plt.show()
+    
+
+    x1 = np.linspace(-10, 10, 100)
+    y = x1 ** 2
+
+    plt.plot(x1, y)
+    plt.xlabel("x1")
+    plt.ylabel("y")
+    plt.title("y = x1^2")
+    plt.grid(True)
+    plt.show()
+
+    # Derivatives
+    points = [-5, -3, 0, 3, 5]
+
+    for x in points:
+        derivative = 2 * x
+        print(f"x = {x}, derivative = {derivative}")
+
 
 
 
