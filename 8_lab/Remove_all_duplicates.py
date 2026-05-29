@@ -7,10 +7,10 @@ def duplidict():
         unique_words[word] = 1
     result1 = unique_words.keys()
     print(result1)
-    result = " ".join(unique_words.keys())
-
-    print("Sentence after removing duplicates:")
-    print(result)
+    # result = " ".join(unique_words.keys())
+    #
+    # print("Sentence after removing duplicates:")
+    # print(result)
 
 
 def mymain():

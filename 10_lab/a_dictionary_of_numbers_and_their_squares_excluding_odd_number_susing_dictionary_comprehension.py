@@ -8,12 +8,6 @@ def matrix():
 def mymain():
     matrix()
 
-    sentence = "Hello, how are you?"
-
-    reverse_words = {word: word[::-1] for word in sentence.split()}
-
-    print(reverse_words)
-
 
 if __name__ == "__main__":
 

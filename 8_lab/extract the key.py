@@ -1,14 +1,25 @@
 def most_unique():
-    test_dict = {"Gfg" : [5, 7, 7, 7, 7],"Best" : [9, 9, 6, 5, 5], "is" : [6, 7, 7, 8,9,3,4,7], }
+    test_dict = {"Gfg" : [5, 7, 7, 7, 7],"Best" : [6,7,7,9,10], "is" : [9,9,5,10,11,5], }
     #print(test_dict)
-    c=0
-    b=''
+
+    c= 0
+    result =[]
+
     for key, value in test_dict.items():
-        if len(set(value))>c:
-            print(len(set(value)))
-            c=len(set(value))
-            b=key
-    print(b)
+        count = len(set(value))
+
+        if count > c:
+            c =count
+            result = [key]
+        elif c ==count:
+                result.append(key)
+
+    print("Key:", result)
+
+
+
+
+
 
 
 

@@ -29,7 +29,7 @@ def insta():
     fans = followers - following
 
     print("\nMutuals:", mutuals)
-    print("Fans:", fans)
+    print("\nFans:", fans)
 
 def mymain():
     insta()

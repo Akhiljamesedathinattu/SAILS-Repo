@@ -6,7 +6,7 @@ def duplicatelist():
     # print(n)
     n1 = n1=[2,5,2,4,2,6,9,5,3,4,6]
     print(type(n1[1]))
-    r = int(input())
+    r = int(input("ENETR THE NUMBER TO REMOVE :::::::::"))
     n = [x for x in n1 if int(x) != r]
     print(n1)
     print(n)
@@ -19,3 +19,4 @@ def mymain():
 if __name__ == "__main__":
     # print("this is the beginning of my program")
     mymain()
+
