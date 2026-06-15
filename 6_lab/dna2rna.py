@@ -6,37 +6,27 @@ def DNA2RNA():
     s2=s1.replace('T','U')
     print(s2)
             
-def motif():
-    m=input("enter the sequence:")
-    n=input("enter the motif :")
-    l=len(m)
-    l1=len(n)
-    p=""
-    for i in m:
-        if(m[i:n]==n):
-            p.append(i)
-        print(p)
-        
-        
-        
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    def mymain():
-    #DNA2RNA()
-    motif()
-    
-    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+def mymain():
+    DNA2RNA()
+
+
+
     
 
 if __name__ == "__main__":

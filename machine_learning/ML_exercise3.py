@@ -9,7 +9,7 @@ def load_data():
     X = []
     y = []
 
-    with open('simulated_data_multiple_linear_regression_for_ML.csv', mode='r') as file:
+    with open('sarrtouris.csv', mode='r') as file:
 
         reader = csv.DictReader(file)
 

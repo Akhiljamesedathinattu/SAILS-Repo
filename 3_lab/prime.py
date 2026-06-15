@@ -1,18 +1,20 @@
-def prime():
-    n=int(input("enter the number"))
-    if (n<=1):
-        print("not prime")
-        return
-    for i in range (2,n):
-        if(n%i==0):
-            print("not prime")
-            return
-    print("prime")
-        
-def mymain():
-     prime()
-    
-if __name__ == "__main__":
-    # print("this is the beginning of my program")
-    mymain()
+def prime(n):
+    if n <= 1:
+        return False
 
+    for i in range(2, int(n**0.5) + 1):
+        if n % i == 0:
+            return False
+
+    return True
+
+def mymain():
+    n = int(input("Enter the number: "))
+
+    if prime(n):
+        print("Prime")
+    else:
+        print("Not Prime")
+
+if __name__ == "__main__":
+    mymain()

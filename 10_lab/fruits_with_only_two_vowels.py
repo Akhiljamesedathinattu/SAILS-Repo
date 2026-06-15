@@ -1,25 +1,23 @@
 
 def comprehension():
 
-    fruits = ['mango','kiwi','strawberry','guava','pineapple','mandarin orange']
+        fruits = ['mango', 'kiwi', 'strawberry', 'guava', 'pineapple', 'mandarin orange']
 
-    vowels = "aeiou"
+        vowels = "aeiou"
 
-    fruits_with_only_two_vowels = []
+        fruits_with_only_two_vowels = [
+            fruit
+            for fruit in fruits
+            if sum(1 for char in fruit if char in vowels) == 2
+        ]
 
-    for fruit in fruits:
+        print(fruits_with_only_two_vowels)
 
-        vowel_count = 0
+    def mymain():
+        comprehension()
 
-        for char in fruit:
-
-            if char in vowels:
-                vowel_count += 1
-
-        if vowel_count == 2:
-            fruits_with_only_two_vowels.append(fruit)
-
-    print(fruits_with_only_two_vowels)
+    if __name__ == "__main__":
+        mymain()
 
 
 def mymain():
