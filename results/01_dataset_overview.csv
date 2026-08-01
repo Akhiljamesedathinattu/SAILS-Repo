@@ -1,0 +1,17 @@
+property,value
+file,/home/sails/SAILS-Repo/Gene_Expression_Clustering/raw/GSE13159_series_matrix.txt.gz
+series_title,Microarray Innovations in LEukemia (MILE) study: Stage 1 data
+accession,GSE13159
+platform,GPL570
+n_samples,2096
+n_probes,54675
+value_scale,scaled_0_1
+value_scale_note,"values already rescaled to [0,1]; differences between group means are NOT log2 fold changes and cannot be converted to fold changes without the pre-scaling range"
+effect_sizes_are_fold_changes,False
+quantile_normalised_likely,False
+per_sample_minmax_likely,False
+value_min_sampled,0.0
+value_max_sampled,1.0
+n_probes_sampled_for_scale,2023
+metadata_lines,66
+probe_id_example,1007_s_at

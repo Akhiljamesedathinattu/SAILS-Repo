@@ -1,0 +1,2097 @@
+sample,patient_group,group_source,diagnosis,hclust_cluster,kmeans_cluster,analysable
+GSM329407,mature B-ALL with t(8;14),diagnosis,mature B-ALL with t(8;14),3,2,False
+GSM329408,mature B-ALL with t(8;14),diagnosis,mature B-ALL with t(8;14),3,3,False
+GSM329409,mature B-ALL with t(8;14),diagnosis,mature B-ALL with t(8;14),3,3,False
+GSM329410,mature B-ALL with t(8;14),diagnosis,mature B-ALL with t(8;14),3,3,False
+GSM329411,mature B-ALL with t(8;14),diagnosis,mature B-ALL with t(8;14),5,4,False
+GSM329412,mature B-ALL with t(8;14),diagnosis,mature B-ALL with t(8;14),3,4,False
+GSM329413,mature B-ALL with t(8;14),diagnosis,mature B-ALL with t(8;14),5,4,False
+GSM329414,mature B-ALL with t(8;14),diagnosis,mature B-ALL with t(8;14),3,4,False
+GSM329415,mature B-ALL with t(8;14),diagnosis,mature B-ALL with t(8;14),3,1,False
+GSM329416,mature B-ALL with t(8;14),diagnosis,mature B-ALL with t(8;14),5,4,False
+GSM329417,mature B-ALL with t(8;14),diagnosis,mature B-ALL with t(8;14),3,2,False
+GSM329418,mature B-ALL with t(8;14),diagnosis,mature B-ALL with t(8;14),3,3,False
+GSM329419,mature B-ALL with t(8;14),diagnosis,mature B-ALL with t(8;14),5,4,False
+GSM329420,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329421,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329422,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329423,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329424,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329425,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329426,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329427,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329428,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329429,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329430,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329431,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329432,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329433,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329434,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329435,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329436,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329437,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329438,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329439,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329440,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329441,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329442,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329443,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329444,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329445,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329446,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329447,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329448,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329449,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329450,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329451,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329452,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329453,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329454,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329455,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329456,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329457,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329458,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329459,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329460,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329461,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329462,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329463,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329464,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329465,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329466,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,4,1,True
+GSM329467,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329468,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329469,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329470,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329471,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329472,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329473,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329474,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329475,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329476,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329477,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329478,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329479,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329480,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329481,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329482,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329483,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329484,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329485,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329486,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329487,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329488,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329489,Pro-B-ALL with t(11q23)/MLL,diagnosis,Pro-B-ALL with t(11q23)/MLL,3,3,True
+GSM329490,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329491,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329716,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329717,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329718,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329719,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329720,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329721,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329722,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329723,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329724,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329725,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329726,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329727,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329728,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329729,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,1,True
+GSM329730,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329731,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329732,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329733,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329734,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329735,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329736,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329737,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,1,True
+GSM329738,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329739,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329740,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329741,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329742,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,4,True
+GSM329743,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329744,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329745,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329746,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329747,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329748,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329749,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329750,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329751,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329752,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329753,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329754,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329755,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329756,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329757,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329758,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329759,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329760,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329761,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329762,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329763,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329764,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329765,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329766,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329767,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329768,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329769,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329770,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329771,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,1,True
+GSM329772,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329773,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329774,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329775,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329776,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329777,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329778,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329779,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329780,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329781,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329782,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329783,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329784,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,1,True
+GSM329785,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329786,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329787,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329788,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329789,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329790,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329791,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329792,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329793,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),5,4,True
+GSM329794,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329795,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329796,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329797,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329798,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329799,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329800,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329801,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329802,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329803,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329804,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329805,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329806,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329807,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329808,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,4,True
+GSM329809,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329810,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329811,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329812,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329813,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329814,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329815,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329816,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329817,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329818,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329819,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329820,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,1,True
+GSM329821,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329822,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329823,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329824,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329825,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329826,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),5,1,True
+GSM329827,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329828,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329829,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329830,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329831,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329832,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329833,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329834,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329835,c-ALL/Pre-B-ALL with t(9;22),diagnosis,c-ALL/Pre-B-ALL with t(9;22),3,3,True
+GSM329836,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329837,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329838,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329839,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329840,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329841,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329842,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329843,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329844,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329845,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329846,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329847,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329848,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329849,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329850,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329851,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329852,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329853,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329854,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329855,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329856,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329857,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329858,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329859,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329860,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329861,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329862,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329863,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329864,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329865,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329866,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329867,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329868,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329869,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329870,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329871,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329872,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329873,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329874,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329875,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329876,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329877,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329878,T-ALL,diagnosis,T-ALL,5,4,True
+GSM329879,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329880,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329881,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329882,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329883,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329884,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329885,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329886,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329887,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329888,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329889,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329890,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329891,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329892,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329893,T-ALL,diagnosis,T-ALL,5,4,True
+GSM329894,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329895,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329896,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329897,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329898,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329899,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329900,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329901,T-ALL,diagnosis,T-ALL,5,4,True
+GSM329902,T-ALL,diagnosis,T-ALL,2,1,True
+GSM329903,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329904,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329905,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329906,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329907,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329908,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329909,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329910,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329911,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329912,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329913,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329914,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329915,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329916,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329917,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329918,T-ALL,diagnosis,T-ALL,4,4,True
+GSM329919,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329920,T-ALL,diagnosis,T-ALL,4,1,True
+GSM329921,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329922,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329923,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329924,T-ALL,diagnosis,T-ALL,2,4,True
+GSM329925,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329926,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329927,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329928,T-ALL,diagnosis,T-ALL,3,4,True
+GSM329929,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329930,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329931,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329932,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329933,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329934,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329935,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329936,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329937,T-ALL,diagnosis,T-ALL,5,4,True
+GSM329938,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329939,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329940,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329941,T-ALL,diagnosis,T-ALL,3,3,True
+GSM329942,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329943,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329944,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329945,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329946,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329947,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329948,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329949,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329950,T-ALL,diagnosis,T-ALL,5,4,True
+GSM329951,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329952,T-ALL,diagnosis,T-ALL,2,1,True
+GSM329953,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329954,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329955,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329956,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329957,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329958,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329959,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329960,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329961,T-ALL,diagnosis,T-ALL,2,4,True
+GSM329962,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329963,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329964,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329965,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329966,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329967,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329968,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329969,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329970,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329971,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329972,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329973,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329974,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329975,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329976,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329977,T-ALL,diagnosis,T-ALL,2,4,True
+GSM329978,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329979,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329980,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329981,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329982,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329983,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329984,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329985,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329986,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329987,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329988,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329989,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329990,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329991,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329992,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329993,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329994,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329995,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329996,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329997,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329998,T-ALL,diagnosis,T-ALL,2,5,True
+GSM329999,T-ALL,diagnosis,T-ALL,2,5,True
+GSM330000,T-ALL,diagnosis,T-ALL,2,5,True
+GSM330001,T-ALL,diagnosis,T-ALL,2,5,True
+GSM330002,T-ALL,diagnosis,T-ALL,2,4,True
+GSM330003,T-ALL,diagnosis,T-ALL,2,1,True
+GSM330004,T-ALL,diagnosis,T-ALL,2,5,True
+GSM330005,T-ALL,diagnosis,T-ALL,2,5,True
+GSM330006,T-ALL,diagnosis,T-ALL,2,5,True
+GSM330007,T-ALL,diagnosis,T-ALL,2,5,True
+GSM330008,T-ALL,diagnosis,T-ALL,2,5,True
+GSM330009,T-ALL,diagnosis,T-ALL,2,5,True
+GSM330010,ALL with t(12;21),diagnosis,ALL with t(12;21),3,3,True
+GSM330011,ALL with t(12;21),diagnosis,ALL with t(12;21),3,3,True
+GSM330012,ALL with t(12;21),diagnosis,ALL with t(12;21),3,3,True
+GSM330013,ALL with t(12;21),diagnosis,ALL with t(12;21),3,3,True
+GSM330014,ALL with t(12;21),diagnosis,ALL with t(12;21),3,3,True
+GSM330015,ALL with t(12;21),diagnosis,ALL with t(12;21),3,3,True
+GSM330016,ALL with t(12;21),diagnosis,ALL with t(12;21),3,3,True
+GSM330017,ALL with t(12;21),diagnosis,ALL with t(12;21),3,3,True
+GSM330018,ALL with t(12;21),diagnosis,ALL with t(12;21),3,3,True
+GSM330019,ALL with t(12;21),diagnosis,ALL with t(12;21),3,3,True
+GSM330020,ALL with t(12;21),diagnosis,ALL with t(12;21),3,3,True
+GSM330021,ALL with t(12;21),diagnosis,ALL with t(12;21),3,3,True
+GSM330022,ALL with t(12;21),diagnosis,ALL with t(12;21),3,3,True
+GSM330023,ALL with t(12;21),diagnosis,ALL with t(12;21),3,3,True
+GSM330024,ALL with t(12;21),diagnosis,ALL with t(12;21),3,3,True
+GSM330025,ALL with t(12;21),diagnosis,ALL with t(12;21),3,3,True
+GSM330026,ALL with t(12;21),diagnosis,ALL with t(12;21),3,3,True
+GSM330027,ALL with t(12;21),diagnosis,ALL with t(12;21),5,4,True
+GSM330028,ALL with t(12;21),diagnosis,ALL with t(12;21),3,3,True
+GSM330029,ALL with t(12;21),diagnosis,ALL with t(12;21),3,3,True
+GSM330030,ALL with t(12;21),diagnosis,ALL with t(12;21),3,3,True
+GSM330031,ALL with t(12;21),diagnosis,ALL with t(12;21),3,3,True
+GSM330032,ALL with t(12;21),diagnosis,ALL with t(12;21),3,3,True
+GSM330033,ALL with t(12;21),diagnosis,ALL with t(12;21),3,3,True
+GSM330034,ALL with t(12;21),diagnosis,ALL with t(12;21),3,3,True
+GSM330035,ALL with t(12;21),diagnosis,ALL with t(12;21),3,3,True
+GSM330036,ALL with t(12;21),diagnosis,ALL with t(12;21),3,3,True
+GSM330037,ALL with t(12;21),diagnosis,ALL with t(12;21),3,3,True
+GSM330038,ALL with t(12;21),diagnosis,ALL with t(12;21),3,3,True
+GSM330039,ALL with t(12;21),diagnosis,ALL with t(12;21),3,3,True
+GSM330040,ALL with t(12;21),diagnosis,ALL with t(12;21),3,3,True
+GSM330041,ALL with t(12;21),diagnosis,ALL with t(12;21),3,3,True
+GSM330042,ALL with t(12;21),diagnosis,ALL with t(12;21),3,3,True
+GSM330043,ALL with t(12;21),diagnosis,ALL with t(12;21),3,3,True
+GSM330044,ALL with t(12;21),diagnosis,ALL with t(12;21),3,3,True
+GSM330045,ALL with t(12;21),diagnosis,ALL with t(12;21),3,3,True
+GSM330046,ALL with t(12;21),diagnosis,ALL with t(12;21),3,3,True
+GSM330047,ALL with t(12;21),diagnosis,ALL with t(12;21),3,3,True
+GSM330048,ALL with t(12;21),diagnosis,ALL with t(12;21),3,3,True
+GSM330049,ALL with t(12;21),diagnosis,ALL with t(12;21),3,3,True
+GSM330050,ALL with t(12;21),diagnosis,ALL with t(12;21),3,3,True
+GSM330051,ALL with t(12;21),diagnosis,ALL with t(12;21),3,3,True
+GSM330052,ALL with t(12;21),diagnosis,ALL with t(12;21),3,3,True
+GSM330053,ALL with t(12;21),diagnosis,ALL with t(12;21),3,3,True
+GSM330054,ALL with t(12;21),diagnosis,ALL with t(12;21),3,3,True
+GSM330055,ALL with t(12;21),diagnosis,ALL with t(12;21),3,3,True
+GSM330056,ALL with t(12;21),diagnosis,ALL with t(12;21),3,3,True
+GSM330057,ALL with t(12;21),diagnosis,ALL with t(12;21),3,3,True
+GSM330058,ALL with t(12;21),diagnosis,ALL with t(12;21),3,3,True
+GSM330059,ALL with t(12;21),diagnosis,ALL with t(12;21),3,3,True
+GSM330060,ALL with t(12;21),diagnosis,ALL with t(12;21),3,3,True
+GSM330061,ALL with t(12;21),diagnosis,ALL with t(12;21),3,3,True
+GSM330062,ALL with t(12;21),diagnosis,ALL with t(12;21),3,3,True
+GSM330063,ALL with t(12;21),diagnosis,ALL with t(12;21),3,3,True
+GSM330064,ALL with t(12;21),diagnosis,ALL with t(12;21),3,3,True
+GSM330065,ALL with t(12;21),diagnosis,ALL with t(12;21),3,3,True
+GSM330066,ALL with t(12;21),diagnosis,ALL with t(12;21),3,3,True
+GSM330067,ALL with t(12;21),diagnosis,ALL with t(12;21),3,3,True
+GSM330068,ALL with t(1;19),diagnosis,ALL with t(1;19),3,3,True
+GSM330069,ALL with t(1;19),diagnosis,ALL with t(1;19),3,3,True
+GSM330070,ALL with t(1;19),diagnosis,ALL with t(1;19),3,3,True
+GSM330071,ALL with t(1;19),diagnosis,ALL with t(1;19),3,3,True
+GSM330072,ALL with t(1;19),diagnosis,ALL with t(1;19),3,3,True
+GSM330073,ALL with t(1;19),diagnosis,ALL with t(1;19),3,3,True
+GSM330074,ALL with t(1;19),diagnosis,ALL with t(1;19),3,3,True
+GSM330075,ALL with t(1;19),diagnosis,ALL with t(1;19),3,3,True
+GSM330076,ALL with t(1;19),diagnosis,ALL with t(1;19),3,3,True
+GSM330077,ALL with t(1;19),diagnosis,ALL with t(1;19),3,3,True
+GSM330078,ALL with t(1;19),diagnosis,ALL with t(1;19),3,3,True
+GSM330079,ALL with t(1;19),diagnosis,ALL with t(1;19),3,3,True
+GSM330080,ALL with t(1;19),diagnosis,ALL with t(1;19),3,3,True
+GSM330081,ALL with t(1;19),diagnosis,ALL with t(1;19),3,3,True
+GSM330082,ALL with t(1;19),diagnosis,ALL with t(1;19),3,4,True
+GSM330083,ALL with t(1;19),diagnosis,ALL with t(1;19),3,3,True
+GSM330084,ALL with t(1;19),diagnosis,ALL with t(1;19),3,3,True
+GSM330085,ALL with t(1;19),diagnosis,ALL with t(1;19),3,3,True
+GSM330086,ALL with t(1;19),diagnosis,ALL with t(1;19),3,3,True
+GSM330087,ALL with t(1;19),diagnosis,ALL with t(1;19),3,3,True
+GSM330088,ALL with t(1;19),diagnosis,ALL with t(1;19),3,3,True
+GSM330089,ALL with t(1;19),diagnosis,ALL with t(1;19),3,3,True
+GSM330090,ALL with t(1;19),diagnosis,ALL with t(1;19),3,3,True
+GSM330091,ALL with t(1;19),diagnosis,ALL with t(1;19),3,3,True
+GSM330092,ALL with t(1;19),diagnosis,ALL with t(1;19),3,3,True
+GSM330093,ALL with t(1;19),diagnosis,ALL with t(1;19),3,3,True
+GSM330094,ALL with t(1;19),diagnosis,ALL with t(1;19),3,3,True
+GSM330095,ALL with t(1;19),diagnosis,ALL with t(1;19),3,3,True
+GSM330096,ALL with t(1;19),diagnosis,ALL with t(1;19),3,3,True
+GSM330097,ALL with t(1;19),diagnosis,ALL with t(1;19),3,3,True
+GSM330098,ALL with t(1;19),diagnosis,ALL with t(1;19),3,3,True
+GSM330099,ALL with t(1;19),diagnosis,ALL with t(1;19),3,3,True
+GSM330100,ALL with t(1;19),diagnosis,ALL with t(1;19),3,3,True
+GSM330101,ALL with t(1;19),diagnosis,ALL with t(1;19),3,3,True
+GSM330102,ALL with t(1;19),diagnosis,ALL with t(1;19),3,3,True
+GSM330103,ALL with t(1;19),diagnosis,ALL with t(1;19),3,3,True
+GSM330104,ALL with hyperdiploid karyotype,diagnosis,ALL with hyperdiploid karyotype,3,3,True
+GSM330105,ALL with hyperdiploid karyotype,diagnosis,ALL with hyperdiploid karyotype,3,3,True
+GSM330106,ALL with hyperdiploid karyotype,diagnosis,ALL with hyperdiploid karyotype,3,3,True
+GSM330107,ALL with hyperdiploid karyotype,diagnosis,ALL with hyperdiploid karyotype,3,3,True
+GSM330108,ALL with hyperdiploid karyotype,diagnosis,ALL with hyperdiploid karyotype,3,3,True
+GSM330109,ALL with hyperdiploid karyotype,diagnosis,ALL with hyperdiploid karyotype,3,3,True
+GSM330110,ALL with hyperdiploid karyotype,diagnosis,ALL with hyperdiploid karyotype,3,3,True
+GSM330111,ALL with hyperdiploid karyotype,diagnosis,ALL with hyperdiploid karyotype,3,3,True
+GSM330112,ALL with hyperdiploid karyotype,diagnosis,ALL with hyperdiploid karyotype,3,3,True
+GSM330113,ALL with hyperdiploid karyotype,diagnosis,ALL with hyperdiploid karyotype,3,3,True
+GSM330114,ALL with hyperdiploid karyotype,diagnosis,ALL with hyperdiploid karyotype,3,3,True
+GSM330115,ALL with hyperdiploid karyotype,diagnosis,ALL with hyperdiploid karyotype,3,3,True
+GSM330116,ALL with hyperdiploid karyotype,diagnosis,ALL with hyperdiploid karyotype,3,3,True
+GSM330117,ALL with hyperdiploid karyotype,diagnosis,ALL with hyperdiploid karyotype,3,3,True
+GSM330118,ALL with hyperdiploid karyotype,diagnosis,ALL with hyperdiploid karyotype,3,3,True
+GSM330119,ALL with hyperdiploid karyotype,diagnosis,ALL with hyperdiploid karyotype,3,3,True
+GSM330120,ALL with hyperdiploid karyotype,diagnosis,ALL with hyperdiploid karyotype,3,3,True
+GSM330121,ALL with hyperdiploid karyotype,diagnosis,ALL with hyperdiploid karyotype,3,3,True
+GSM330122,ALL with hyperdiploid karyotype,diagnosis,ALL with hyperdiploid karyotype,3,3,True
+GSM330123,ALL with hyperdiploid karyotype,diagnosis,ALL with hyperdiploid karyotype,3,3,True
+GSM330124,ALL with hyperdiploid karyotype,diagnosis,ALL with hyperdiploid karyotype,3,3,True
+GSM330125,ALL with hyperdiploid karyotype,diagnosis,ALL with hyperdiploid karyotype,3,3,True
+GSM330126,ALL with hyperdiploid karyotype,diagnosis,ALL with hyperdiploid karyotype,3,3,True
+GSM330127,ALL with hyperdiploid karyotype,diagnosis,ALL with hyperdiploid karyotype,3,3,True
+GSM330128,ALL with hyperdiploid karyotype,diagnosis,ALL with hyperdiploid karyotype,3,3,True
+GSM330129,ALL with hyperdiploid karyotype,diagnosis,ALL with hyperdiploid karyotype,3,3,True
+GSM330130,ALL with hyperdiploid karyotype,diagnosis,ALL with hyperdiploid karyotype,3,3,True
+GSM330131,ALL with hyperdiploid karyotype,diagnosis,ALL with hyperdiploid karyotype,3,3,True
+GSM330132,ALL with hyperdiploid karyotype,diagnosis,ALL with hyperdiploid karyotype,3,3,True
+GSM330133,ALL with hyperdiploid karyotype,diagnosis,ALL with hyperdiploid karyotype,3,3,True
+GSM330134,ALL with hyperdiploid karyotype,diagnosis,ALL with hyperdiploid karyotype,3,3,True
+GSM330135,ALL with hyperdiploid karyotype,diagnosis,ALL with hyperdiploid karyotype,3,3,True
+GSM330136,ALL with hyperdiploid karyotype,diagnosis,ALL with hyperdiploid karyotype,3,3,True
+GSM330137,ALL with hyperdiploid karyotype,diagnosis,ALL with hyperdiploid karyotype,3,3,True
+GSM330138,ALL with hyperdiploid karyotype,diagnosis,ALL with hyperdiploid karyotype,3,3,True
+GSM330139,ALL with hyperdiploid karyotype,diagnosis,ALL with hyperdiploid karyotype,3,3,True
+GSM330140,ALL with hyperdiploid karyotype,diagnosis,ALL with hyperdiploid karyotype,3,3,True
+GSM330141,ALL with hyperdiploid karyotype,diagnosis,ALL with hyperdiploid karyotype,3,3,True
+GSM330142,ALL with hyperdiploid karyotype,diagnosis,ALL with hyperdiploid karyotype,3,3,True
+GSM330143,ALL with hyperdiploid karyotype,diagnosis,ALL with hyperdiploid karyotype,3,3,True
+GSM330144,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330145,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330146,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330147,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330148,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330149,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330150,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330151,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330152,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330153,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330154,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330155,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330156,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330157,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330158,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330159,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),5,4,True
+GSM330160,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330161,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330162,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330163,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330164,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330165,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330166,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330167,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330168,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330169,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330170,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330171,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330172,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),1,2,True
+GSM330173,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330174,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330175,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330176,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330177,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330178,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330179,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330180,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330181,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330182,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330183,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330184,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330185,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330186,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330187,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330188,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330189,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330190,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330191,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330192,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330193,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330194,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330195,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330196,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330197,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330198,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330199,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330200,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330201,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330202,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330203,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330204,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330205,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330206,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330207,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330208,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,4,True
+GSM330209,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330210,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330211,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330212,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330213,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330214,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330215,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330216,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330217,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330218,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330219,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330220,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330221,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330222,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330223,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330224,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330225,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330226,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330227,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330228,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330229,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330230,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330231,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330232,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330233,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330234,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330235,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330236,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330237,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330238,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330239,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330240,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330241,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),2,4,True
+GSM330242,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330243,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330244,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330245,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330246,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330247,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330248,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330249,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330250,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330251,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330252,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330253,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330254,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330255,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330256,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),5,4,True
+GSM330257,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330258,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330259,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330260,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330261,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,4,True
+GSM330262,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,4,True
+GSM330263,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330264,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330265,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330266,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330267,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330268,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330269,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330270,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330271,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330272,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330273,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330274,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330275,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330276,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330277,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330278,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330279,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330280,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330281,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330282,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330283,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330284,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330285,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330286,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330287,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330288,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330289,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330290,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330291,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,5,True
+GSM330292,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330293,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330294,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330295,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330296,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330297,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330298,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330299,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330300,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330301,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330302,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330303,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330304,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330305,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330306,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330307,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330308,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330309,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330310,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330317,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330318,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330319,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330320,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330321,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330322,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330323,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330324,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330325,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330326,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330327,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330328,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330329,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330330,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330331,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,4,True
+GSM330332,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,4,True
+GSM330333,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330334,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330335,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),2,5,True
+GSM330336,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330337,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330338,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330339,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330340,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330341,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330342,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330343,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330344,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330345,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330346,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330347,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330348,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330349,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330350,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330351,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330352,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330353,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330354,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330355,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330356,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330357,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330358,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330359,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330360,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330361,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330362,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330363,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330364,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330365,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330366,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330367,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330368,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,4,True
+GSM330369,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330370,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330371,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330372,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330373,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330374,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330375,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330376,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330377,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330378,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330379,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330380,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330381,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330382,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330383,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),2,3,True
+GSM330384,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330385,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330386,c-ALL/Pre-B-ALL without t(9;22),diagnosis,c-ALL/Pre-B-ALL without t(9;22),3,3,True
+GSM330387,AML with t(8;21),diagnosis,AML with t(8;21),4,1,True
+GSM330388,AML with t(8;21),diagnosis,AML with t(8;21),4,1,True
+GSM330389,AML with t(8;21),diagnosis,AML with t(8;21),4,1,True
+GSM330390,AML with t(8;21),diagnosis,AML with t(8;21),4,1,True
+GSM330391,AML with t(8;21),diagnosis,AML with t(8;21),4,1,True
+GSM330392,AML with t(8;21),diagnosis,AML with t(8;21),4,1,True
+GSM330393,AML with t(8;21),diagnosis,AML with t(8;21),4,1,True
+GSM330394,AML with t(8;21),diagnosis,AML with t(8;21),4,1,True
+GSM330395,AML with t(8;21),diagnosis,AML with t(8;21),4,1,True
+GSM330396,AML with t(8;21),diagnosis,AML with t(8;21),5,1,True
+GSM330397,AML with t(8;21),diagnosis,AML with t(8;21),4,1,True
+GSM330398,AML with t(8;21),diagnosis,AML with t(8;21),5,4,True
+GSM330399,AML with t(8;21),diagnosis,AML with t(8;21),4,1,True
+GSM330400,AML with t(8;21),diagnosis,AML with t(8;21),4,1,True
+GSM330401,AML with t(8;21),diagnosis,AML with t(8;21),4,1,True
+GSM330402,AML with t(8;21),diagnosis,AML with t(8;21),4,1,True
+GSM330403,AML with t(8;21),diagnosis,AML with t(8;21),4,1,True
+GSM330404,AML with t(8;21),diagnosis,AML with t(8;21),4,1,True
+GSM330405,AML with t(8;21),diagnosis,AML with t(8;21),4,1,True
+GSM330406,AML with t(8;21),diagnosis,AML with t(8;21),5,1,True
+GSM330407,AML with t(8;21),diagnosis,AML with t(8;21),5,1,True
+GSM330408,AML with t(8;21),diagnosis,AML with t(8;21),4,1,True
+GSM330409,AML with t(8;21),diagnosis,AML with t(8;21),4,1,True
+GSM330410,AML with t(8;21),diagnosis,AML with t(8;21),4,4,True
+GSM330411,AML with t(8;21),diagnosis,AML with t(8;21),5,1,True
+GSM330412,AML with t(8;21),diagnosis,AML with t(8;21),4,1,True
+GSM330413,AML with t(8;21),diagnosis,AML with t(8;21),4,1,True
+GSM330414,AML with t(8;21),diagnosis,AML with t(8;21),4,1,True
+GSM330415,AML with t(8;21),diagnosis,AML with t(8;21),4,1,True
+GSM330416,AML with t(8;21),diagnosis,AML with t(8;21),5,1,True
+GSM330417,AML with t(8;21),diagnosis,AML with t(8;21),4,1,True
+GSM330418,AML with t(8;21),diagnosis,AML with t(8;21),5,4,True
+GSM330419,AML with t(8;21),diagnosis,AML with t(8;21),4,1,True
+GSM330420,AML with t(8;21),diagnosis,AML with t(8;21),4,1,True
+GSM330421,AML with t(8;21),diagnosis,AML with t(8;21),4,1,True
+GSM330422,AML with t(8;21),diagnosis,AML with t(8;21),4,1,True
+GSM330423,AML with t(8;21),diagnosis,AML with t(8;21),4,1,True
+GSM330424,AML with t(8;21),diagnosis,AML with t(8;21),4,1,True
+GSM330425,AML with t(8;21),diagnosis,AML with t(8;21),4,1,True
+GSM330426,AML with t(8;21),diagnosis,AML with t(8;21),4,1,True
+GSM330427,AML with t(15;17),diagnosis,AML with t(15;17),4,1,True
+GSM330428,AML with t(15;17),diagnosis,AML with t(15;17),4,1,True
+GSM330429,AML with t(15;17),diagnosis,AML with t(15;17),4,1,True
+GSM330430,AML with t(15;17),diagnosis,AML with t(15;17),4,1,True
+GSM330431,AML with t(15;17),diagnosis,AML with t(15;17),4,1,True
+GSM330432,AML with t(15;17),diagnosis,AML with t(15;17),4,1,True
+GSM330433,AML with t(15;17),diagnosis,AML with t(15;17),4,1,True
+GSM330434,AML with t(15;17),diagnosis,AML with t(15;17),5,4,True
+GSM330435,AML with t(15;17),diagnosis,AML with t(15;17),4,1,True
+GSM330436,AML with t(15;17),diagnosis,AML with t(15;17),4,1,True
+GSM330437,AML with t(15;17),diagnosis,AML with t(15;17),4,1,True
+GSM330438,AML with t(15;17),diagnosis,AML with t(15;17),4,1,True
+GSM330439,AML with t(15;17),diagnosis,AML with t(15;17),4,1,True
+GSM330440,AML with t(15;17),diagnosis,AML with t(15;17),4,1,True
+GSM330441,AML with t(15;17),diagnosis,AML with t(15;17),4,1,True
+GSM330442,AML with t(15;17),diagnosis,AML with t(15;17),4,1,True
+GSM330443,AML with t(15;17),diagnosis,AML with t(15;17),5,4,True
+GSM330444,AML with t(15;17),diagnosis,AML with t(15;17),4,1,True
+GSM330445,AML with t(15;17),diagnosis,AML with t(15;17),4,1,True
+GSM330446,AML with t(15;17),diagnosis,AML with t(15;17),4,1,True
+GSM330447,AML with t(15;17),diagnosis,AML with t(15;17),4,1,True
+GSM330448,AML with t(15;17),diagnosis,AML with t(15;17),4,1,True
+GSM330449,AML with t(15;17),diagnosis,AML with t(15;17),4,1,True
+GSM330450,AML with t(15;17),diagnosis,AML with t(15;17),4,1,True
+GSM330451,AML with t(15;17),diagnosis,AML with t(15;17),4,1,True
+GSM330452,AML with t(15;17),diagnosis,AML with t(15;17),4,1,True
+GSM330453,AML with t(15;17),diagnosis,AML with t(15;17),4,1,True
+GSM330454,AML with t(15;17),diagnosis,AML with t(15;17),4,1,True
+GSM330455,AML with t(15;17),diagnosis,AML with t(15;17),4,1,True
+GSM330456,AML with t(15;17),diagnosis,AML with t(15;17),4,1,True
+GSM330457,AML with t(15;17),diagnosis,AML with t(15;17),4,1,True
+GSM330458,AML with t(15;17),diagnosis,AML with t(15;17),4,1,True
+GSM330459,AML with t(15;17),diagnosis,AML with t(15;17),4,1,True
+GSM330460,AML with t(15;17),diagnosis,AML with t(15;17),4,1,True
+GSM330461,AML with t(15;17),diagnosis,AML with t(15;17),4,1,True
+GSM330462,AML with t(15;17),diagnosis,AML with t(15;17),4,1,True
+GSM330463,AML with t(15;17),diagnosis,AML with t(15;17),4,1,True
+GSM330464,AML with inv(16)/t(16;16),diagnosis,AML with inv(16)/t(16;16),4,1,True
+GSM330465,AML with inv(16)/t(16;16),diagnosis,AML with inv(16)/t(16;16),2,1,True
+GSM330466,AML with inv(16)/t(16;16),diagnosis,AML with inv(16)/t(16;16),4,1,True
+GSM330467,AML with inv(16)/t(16;16),diagnosis,AML with inv(16)/t(16;16),4,1,True
+GSM330468,AML with inv(16)/t(16;16),diagnosis,AML with inv(16)/t(16;16),4,1,True
+GSM330469,AML with inv(16)/t(16;16),diagnosis,AML with inv(16)/t(16;16),4,1,True
+GSM330470,AML with inv(16)/t(16;16),diagnosis,AML with inv(16)/t(16;16),4,1,True
+GSM330471,AML with inv(16)/t(16;16),diagnosis,AML with inv(16)/t(16;16),4,1,True
+GSM330472,AML with inv(16)/t(16;16),diagnosis,AML with inv(16)/t(16;16),4,1,True
+GSM330473,AML with inv(16)/t(16;16),diagnosis,AML with inv(16)/t(16;16),4,4,True
+GSM330474,AML with inv(16)/t(16;16),diagnosis,AML with inv(16)/t(16;16),4,1,True
+GSM330475,AML with inv(16)/t(16;16),diagnosis,AML with inv(16)/t(16;16),4,4,True
+GSM330476,AML with inv(16)/t(16;16),diagnosis,AML with inv(16)/t(16;16),4,1,True
+GSM330477,AML with inv(16)/t(16;16),diagnosis,AML with inv(16)/t(16;16),4,1,True
+GSM330478,AML with inv(16)/t(16;16),diagnosis,AML with inv(16)/t(16;16),4,1,True
+GSM330479,AML with inv(16)/t(16;16),diagnosis,AML with inv(16)/t(16;16),4,1,True
+GSM330480,AML with inv(16)/t(16;16),diagnosis,AML with inv(16)/t(16;16),4,1,True
+GSM330481,AML with inv(16)/t(16;16),diagnosis,AML with inv(16)/t(16;16),4,1,True
+GSM330482,AML with inv(16)/t(16;16),diagnosis,AML with inv(16)/t(16;16),4,1,True
+GSM330483,AML with inv(16)/t(16;16),diagnosis,AML with inv(16)/t(16;16),4,1,True
+GSM330484,AML with inv(16)/t(16;16),diagnosis,AML with inv(16)/t(16;16),4,1,True
+GSM330485,AML with inv(16)/t(16;16),diagnosis,AML with inv(16)/t(16;16),4,1,True
+GSM330486,AML with inv(16)/t(16;16),diagnosis,AML with inv(16)/t(16;16),4,1,True
+GSM330487,AML with inv(16)/t(16;16),diagnosis,AML with inv(16)/t(16;16),4,1,True
+GSM330488,AML with inv(16)/t(16;16),diagnosis,AML with inv(16)/t(16;16),4,1,True
+GSM330489,AML with inv(16)/t(16;16),diagnosis,AML with inv(16)/t(16;16),4,1,True
+GSM330490,AML with inv(16)/t(16;16),diagnosis,AML with inv(16)/t(16;16),4,1,True
+GSM330491,AML with inv(16)/t(16;16),diagnosis,AML with inv(16)/t(16;16),4,1,True
+GSM330492,AML with t(11q23)/MLL,diagnosis,AML with t(11q23)/MLL,5,4,True
+GSM330493,AML with t(11q23)/MLL,diagnosis,AML with t(11q23)/MLL,4,1,True
+GSM330494,AML with t(11q23)/MLL,diagnosis,AML with t(11q23)/MLL,4,1,True
+GSM330495,AML with t(11q23)/MLL,diagnosis,AML with t(11q23)/MLL,4,1,True
+GSM330496,AML with t(11q23)/MLL,diagnosis,AML with t(11q23)/MLL,5,4,True
+GSM330497,AML with t(11q23)/MLL,diagnosis,AML with t(11q23)/MLL,4,1,True
+GSM330498,AML with t(11q23)/MLL,diagnosis,AML with t(11q23)/MLL,4,1,True
+GSM330499,AML with t(11q23)/MLL,diagnosis,AML with t(11q23)/MLL,4,4,True
+GSM330500,AML with t(11q23)/MLL,diagnosis,AML with t(11q23)/MLL,4,1,True
+GSM330501,AML with t(11q23)/MLL,diagnosis,AML with t(11q23)/MLL,4,1,True
+GSM330502,AML with t(11q23)/MLL,diagnosis,AML with t(11q23)/MLL,4,1,True
+GSM330503,AML with t(11q23)/MLL,diagnosis,AML with t(11q23)/MLL,4,1,True
+GSM330504,AML with t(11q23)/MLL,diagnosis,AML with t(11q23)/MLL,4,1,True
+GSM330505,AML with t(11q23)/MLL,diagnosis,AML with t(11q23)/MLL,4,1,True
+GSM330506,AML with t(11q23)/MLL,diagnosis,AML with t(11q23)/MLL,4,1,True
+GSM330507,AML with t(11q23)/MLL,diagnosis,AML with t(11q23)/MLL,4,1,True
+GSM330508,AML with t(11q23)/MLL,diagnosis,AML with t(11q23)/MLL,3,1,True
+GSM330509,AML with t(11q23)/MLL,diagnosis,AML with t(11q23)/MLL,4,1,True
+GSM330510,AML with t(11q23)/MLL,diagnosis,AML with t(11q23)/MLL,4,1,True
+GSM330511,AML with t(11q23)/MLL,diagnosis,AML with t(11q23)/MLL,4,1,True
+GSM330512,AML with t(11q23)/MLL,diagnosis,AML with t(11q23)/MLL,4,1,True
+GSM330513,AML with t(11q23)/MLL,diagnosis,AML with t(11q23)/MLL,4,1,True
+GSM330514,AML with t(11q23)/MLL,diagnosis,AML with t(11q23)/MLL,4,1,True
+GSM330515,AML with t(11q23)/MLL,diagnosis,AML with t(11q23)/MLL,4,1,True
+GSM330516,AML with t(11q23)/MLL,diagnosis,AML with t(11q23)/MLL,4,1,True
+GSM330517,AML with t(11q23)/MLL,diagnosis,AML with t(11q23)/MLL,4,1,True
+GSM330518,AML with t(11q23)/MLL,diagnosis,AML with t(11q23)/MLL,2,5,True
+GSM330519,AML with t(11q23)/MLL,diagnosis,AML with t(11q23)/MLL,4,1,True
+GSM330520,AML with t(11q23)/MLL,diagnosis,AML with t(11q23)/MLL,5,4,True
+GSM330521,AML with t(11q23)/MLL,diagnosis,AML with t(11q23)/MLL,5,4,True
+GSM330522,AML with t(11q23)/MLL,diagnosis,AML with t(11q23)/MLL,4,1,True
+GSM330523,AML with t(11q23)/MLL,diagnosis,AML with t(11q23)/MLL,4,1,True
+GSM330524,AML with t(11q23)/MLL,diagnosis,AML with t(11q23)/MLL,4,1,True
+GSM330525,AML with t(11q23)/MLL,diagnosis,AML with t(11q23)/MLL,4,1,True
+GSM330526,AML with t(11q23)/MLL,diagnosis,AML with t(11q23)/MLL,5,4,True
+GSM330527,AML with t(11q23)/MLL,diagnosis,AML with t(11q23)/MLL,2,1,True
+GSM330528,AML with t(11q23)/MLL,diagnosis,AML with t(11q23)/MLL,4,1,True
+GSM330529,AML with t(11q23)/MLL,diagnosis,AML with t(11q23)/MLL,4,1,True
+GSM330530,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330531,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,1,True
+GSM330532,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,2,1,True
+GSM330533,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,4,True
+GSM330534,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330535,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330536,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330537,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330538,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330539,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330540,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330541,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330542,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330543,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330544,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330545,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330546,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330547,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330548,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330549,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330550,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330551,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330552,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330553,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330554,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330555,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330556,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330557,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330558,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330559,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330560,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330561,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330562,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330563,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330564,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,1,True
+GSM330565,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330566,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,2,5,True
+GSM330567,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330568,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330569,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330570,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330571,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330572,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330573,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330574,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330575,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330576,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330577,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330578,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330579,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,1,True
+GSM330580,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,2,5,True
+GSM330581,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330582,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330583,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330584,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,2,1,True
+GSM330585,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330586,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330587,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330588,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330589,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330590,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330591,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330592,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330593,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330594,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330595,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330596,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330597,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,1,2,True
+GSM330598,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330599,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330600,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330601,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330602,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330603,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330604,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330605,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330606,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330607,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330608,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330609,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330610,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330611,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,1,True
+GSM330612,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330613,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330614,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330615,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,1,True
+GSM330616,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330617,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330618,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330619,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330620,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330621,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330622,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330623,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330624,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,1,True
+GSM330625,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330626,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330627,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330628,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330629,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,3,1,True
+GSM330630,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330631,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330632,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,1,True
+GSM330633,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330634,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330635,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330636,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330637,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330638,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330639,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,3,1,True
+GSM330640,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,1,True
+GSM330641,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330642,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330643,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330644,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330645,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330646,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330647,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330648,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330649,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330650,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330651,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330652,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330653,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330654,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330655,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330656,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330657,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330658,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330659,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,4,True
+GSM330660,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330661,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330662,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,4,True
+GSM330663,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330664,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330665,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330666,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330667,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330668,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330669,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330670,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330671,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330672,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330673,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330674,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330675,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,1,True
+GSM330676,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330677,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330678,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330679,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330680,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330681,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330682,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330683,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330684,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330685,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,2,5,True
+GSM330686,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330687,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330688,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330689,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330690,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330691,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330692,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330693,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330694,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330695,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330696,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330697,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330698,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330699,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330700,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,1,True
+GSM330701,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330702,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330703,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330704,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330705,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330706,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,4,True
+GSM330707,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,2,1,True
+GSM330708,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330709,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330710,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330711,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330712,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330713,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,2,1,True
+GSM330714,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330715,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330716,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330717,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330718,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330719,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330720,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330721,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330722,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330723,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330724,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,4,True
+GSM330725,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330726,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330727,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330728,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330729,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330730,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330731,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330732,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330733,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330734,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330735,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330736,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330737,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330738,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,2,5,True
+GSM330739,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330740,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,1,True
+GSM330741,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,2,1,True
+GSM330742,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330743,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330744,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330745,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330746,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330747,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330748,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330749,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,4,True
+GSM330750,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330751,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330752,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330753,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330754,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330755,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330756,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,4,True
+GSM330757,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330758,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,1,True
+GSM330759,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330760,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,1,True
+GSM330761,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330762,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330763,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330764,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330765,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330766,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330767,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330768,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330769,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,1,1,True
+GSM330770,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,1,True
+GSM330771,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330772,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330773,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330774,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330775,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330776,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330777,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330778,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330779,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330780,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,4,True
+GSM330781,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330782,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330783,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330784,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330785,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330786,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330787,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,2,1,True
+GSM330788,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330789,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330790,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330791,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330792,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330793,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330794,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330795,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330796,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330797,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330798,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330799,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330800,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,2,5,True
+GSM330801,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330802,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330803,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330804,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330805,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,4,True
+GSM330806,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330807,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330808,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330809,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,3,3,True
+GSM330810,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330811,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330812,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,2,1,True
+GSM330813,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330814,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330815,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330816,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,4,True
+GSM330817,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330818,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330819,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330820,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330821,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330822,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,1,True
+GSM330823,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330824,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330825,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330826,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330827,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,4,True
+GSM330828,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330829,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,2,1,True
+GSM330830,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330831,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330832,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330833,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330834,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330835,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330836,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330837,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330838,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,3,3,True
+GSM330839,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330840,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330841,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330842,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330843,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330844,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330845,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330846,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330847,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330848,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330849,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330850,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330851,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330852,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,4,True
+GSM330853,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,1,True
+GSM330854,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330855,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330856,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330857,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330858,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330859,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330860,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330861,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330862,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330863,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330864,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330865,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,3,3,True
+GSM330866,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330867,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,4,True
+GSM330868,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330869,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330870,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330871,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330872,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330873,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330874,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330875,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330876,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330877,AML complex aberrant karyotype,diagnosis,AML complex aberrant karyotype,5,4,True
+GSM330878,AML complex aberrant karyotype,diagnosis,AML complex aberrant karyotype,4,1,True
+GSM330879,AML complex aberrant karyotype,diagnosis,AML complex aberrant karyotype,4,1,True
+GSM330880,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330881,AML complex aberrant karyotype,diagnosis,AML complex aberrant karyotype,4,1,True
+GSM330882,AML complex aberrant karyotype,diagnosis,AML complex aberrant karyotype,5,4,True
+GSM330883,AML complex aberrant karyotype,diagnosis,AML complex aberrant karyotype,5,1,True
+GSM330884,AML complex aberrant karyotype,diagnosis,AML complex aberrant karyotype,5,4,True
+GSM330885,AML complex aberrant karyotype,diagnosis,AML complex aberrant karyotype,5,4,True
+GSM330886,AML complex aberrant karyotype,diagnosis,AML complex aberrant karyotype,5,4,True
+GSM330887,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,5,4,True
+GSM330888,AML complex aberrant karyotype,diagnosis,AML complex aberrant karyotype,5,4,True
+GSM330889,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330890,AML complex aberrant karyotype,diagnosis,AML complex aberrant karyotype,4,1,True
+GSM330891,AML complex aberrant karyotype,diagnosis,AML complex aberrant karyotype,5,4,True
+GSM330892,AML complex aberrant karyotype,diagnosis,AML complex aberrant karyotype,4,1,True
+GSM330893,AML complex aberrant karyotype,diagnosis,AML complex aberrant karyotype,5,4,True
+GSM330894,AML complex aberrant karyotype,diagnosis,AML complex aberrant karyotype,5,4,True
+GSM330895,AML complex aberrant karyotype,diagnosis,AML complex aberrant karyotype,5,1,True
+GSM330896,AML complex aberrant karyotype,diagnosis,AML complex aberrant karyotype,5,4,True
+GSM330897,AML complex aberrant karyotype,diagnosis,AML complex aberrant karyotype,5,4,True
+GSM330898,AML complex aberrant karyotype,diagnosis,AML complex aberrant karyotype,5,1,True
+GSM330899,AML complex aberrant karyotype,diagnosis,AML complex aberrant karyotype,5,4,True
+GSM330900,AML complex aberrant karyotype,diagnosis,AML complex aberrant karyotype,5,4,True
+GSM330901,AML complex aberrant karyotype,diagnosis,AML complex aberrant karyotype,5,4,True
+GSM330902,AML complex aberrant karyotype,diagnosis,AML complex aberrant karyotype,5,4,True
+GSM330903,AML complex aberrant karyotype,diagnosis,AML complex aberrant karyotype,5,4,True
+GSM330904,AML complex aberrant karyotype,diagnosis,AML complex aberrant karyotype,5,4,True
+GSM330905,AML complex aberrant karyotype,diagnosis,AML complex aberrant karyotype,5,4,True
+GSM330906,AML complex aberrant karyotype,diagnosis,AML complex aberrant karyotype,4,1,True
+GSM330907,AML complex aberrant karyotype,diagnosis,AML complex aberrant karyotype,5,4,True
+GSM330908,AML complex aberrant karyotype,diagnosis,AML complex aberrant karyotype,5,1,True
+GSM330909,AML complex aberrant karyotype,diagnosis,AML complex aberrant karyotype,4,1,True
+GSM330910,AML complex aberrant karyotype,diagnosis,AML complex aberrant karyotype,4,4,True
+GSM330911,AML complex aberrant karyotype,diagnosis,AML complex aberrant karyotype,4,1,True
+GSM330912,AML complex aberrant karyotype,diagnosis,AML complex aberrant karyotype,5,4,True
+GSM330913,AML complex aberrant karyotype,diagnosis,AML complex aberrant karyotype,4,1,True
+GSM330914,AML complex aberrant karyotype,diagnosis,AML complex aberrant karyotype,5,4,True
+GSM330915,AML complex aberrant karyotype,diagnosis,AML complex aberrant karyotype,5,4,True
+GSM330916,AML complex aberrant karyotype,diagnosis,AML complex aberrant karyotype,4,1,True
+GSM330917,AML complex aberrant karyotype,diagnosis,AML complex aberrant karyotype,5,1,True
+GSM330918,AML complex aberrant karyotype,diagnosis,AML complex aberrant karyotype,5,1,True
+GSM330919,AML complex aberrant karyotype,diagnosis,AML complex aberrant karyotype,5,4,True
+GSM330920,AML with normal karyotype + other abnormalities,diagnosis,AML with normal karyotype + other abnormalities,4,1,True
+GSM330921,AML complex aberrant karyotype,diagnosis,AML complex aberrant karyotype,5,1,True
+GSM330922,AML complex aberrant karyotype,diagnosis,AML complex aberrant karyotype,5,1,True
+GSM330923,AML complex aberrant karyotype,diagnosis,AML complex aberrant karyotype,5,4,True
+GSM330924,AML complex aberrant karyotype,diagnosis,AML complex aberrant karyotype,4,1,True
+GSM330925,AML complex aberrant karyotype,diagnosis,AML complex aberrant karyotype,5,4,True
+GSM330926,AML complex aberrant karyotype,diagnosis,AML complex aberrant karyotype,5,1,True
+GSM330927,AML complex aberrant karyotype,diagnosis,AML complex aberrant karyotype,5,4,True
+GSM330928,AML complex aberrant karyotype,diagnosis,AML complex aberrant karyotype,5,4,True
+GSM330929,CLL,diagnosis,CLL,1,2,True
+GSM330930,CLL,diagnosis,CLL,1,2,True
+GSM330931,CLL,diagnosis,CLL,1,2,True
+GSM330932,CLL,diagnosis,CLL,1,2,True
+GSM330933,CLL,diagnosis,CLL,1,2,True
+GSM330934,CLL,diagnosis,CLL,1,2,True
+GSM330935,CLL,diagnosis,CLL,1,2,True
+GSM330936,CLL,diagnosis,CLL,1,2,True
+GSM330937,CLL,diagnosis,CLL,1,2,True
+GSM330938,CLL,diagnosis,CLL,1,2,True
+GSM330939,CLL,diagnosis,CLL,1,2,True
+GSM330940,CLL,diagnosis,CLL,1,2,True
+GSM330941,CLL,diagnosis,CLL,1,2,True
+GSM330942,CLL,diagnosis,CLL,1,2,True
+GSM330943,CLL,diagnosis,CLL,1,2,True
+GSM330944,CLL,diagnosis,CLL,1,2,True
+GSM330945,CLL,diagnosis,CLL,1,2,True
+GSM330946,CLL,diagnosis,CLL,1,2,True
+GSM330947,CLL,diagnosis,CLL,1,2,True
+GSM330948,CLL,diagnosis,CLL,1,2,True
+GSM330949,CLL,diagnosis,CLL,1,2,True
+GSM330950,CLL,diagnosis,CLL,1,2,True
+GSM330951,CLL,diagnosis,CLL,1,2,True
+GSM330952,CLL,diagnosis,CLL,1,2,True
+GSM330953,CLL,diagnosis,CLL,1,2,True
+GSM330954,CLL,diagnosis,CLL,1,2,True
+GSM330955,CLL,diagnosis,CLL,1,2,True
+GSM330956,CLL,diagnosis,CLL,1,2,True
+GSM330957,CLL,diagnosis,CLL,1,2,True
+GSM330958,CLL,diagnosis,CLL,1,2,True
+GSM330959,CLL,diagnosis,CLL,1,2,True
+GSM330960,CLL,diagnosis,CLL,1,2,True
+GSM330961,CLL,diagnosis,CLL,1,2,True
+GSM330962,CLL,diagnosis,CLL,1,2,True
+GSM330963,CLL,diagnosis,CLL,1,2,True
+GSM330964,CLL,diagnosis,CLL,1,2,True
+GSM330965,CLL,diagnosis,CLL,1,2,True
+GSM330966,CLL,diagnosis,CLL,1,2,True
+GSM330967,CLL,diagnosis,CLL,1,2,True
+GSM330968,CLL,diagnosis,CLL,1,2,True
+GSM330969,CLL,diagnosis,CLL,1,2,True
+GSM330970,CLL,diagnosis,CLL,1,2,True
+GSM330971,CLL,diagnosis,CLL,1,2,True
+GSM330972,CLL,diagnosis,CLL,1,2,True
+GSM330973,CLL,diagnosis,CLL,1,2,True
+GSM330974,CLL,diagnosis,CLL,1,4,True
+GSM330975,CLL,diagnosis,CLL,1,2,True
+GSM330976,CLL,diagnosis,CLL,1,2,True
+GSM330977,CLL,diagnosis,CLL,1,2,True
+GSM330978,CLL,diagnosis,CLL,1,2,True
+GSM330979,CLL,diagnosis,CLL,1,2,True
+GSM330980,CLL,diagnosis,CLL,1,2,True
+GSM330981,CLL,diagnosis,CLL,1,2,True
+GSM330982,CLL,diagnosis,CLL,1,2,True
+GSM330983,CLL,diagnosis,CLL,1,2,True
+GSM330984,CLL,diagnosis,CLL,1,2,True
+GSM330985,CLL,diagnosis,CLL,1,2,True
+GSM330986,CLL,diagnosis,CLL,1,2,True
+GSM330987,CLL,diagnosis,CLL,1,2,True
+GSM330988,CLL,diagnosis,CLL,1,2,True
+GSM330989,CLL,diagnosis,CLL,1,2,True
+GSM330990,CLL,diagnosis,CLL,1,2,True
+GSM330991,CLL,diagnosis,CLL,1,2,True
+GSM330992,CLL,diagnosis,CLL,1,2,True
+GSM330993,CLL,diagnosis,CLL,1,2,True
+GSM330994,CLL,diagnosis,CLL,1,2,True
+GSM330995,CLL,diagnosis,CLL,1,2,True
+GSM330996,CLL,diagnosis,CLL,1,2,True
+GSM330997,CLL,diagnosis,CLL,1,2,True
+GSM330998,CLL,diagnosis,CLL,1,2,True
+GSM330999,CLL,diagnosis,CLL,1,2,True
+GSM331000,CLL,diagnosis,CLL,1,2,True
+GSM331001,CLL,diagnosis,CLL,1,2,True
+GSM331002,CLL,diagnosis,CLL,1,2,True
+GSM331003,CLL,diagnosis,CLL,1,2,True
+GSM331004,CLL,diagnosis,CLL,1,2,True
+GSM331005,CLL,diagnosis,CLL,1,2,True
+GSM331006,CLL,diagnosis,CLL,1,2,True
+GSM331007,CLL,diagnosis,CLL,1,2,True
+GSM331008,CLL,diagnosis,CLL,1,2,True
+GSM331009,CLL,diagnosis,CLL,1,2,True
+GSM331010,CLL,diagnosis,CLL,1,2,True
+GSM331011,CLL,diagnosis,CLL,1,2,True
+GSM331012,CLL,diagnosis,CLL,1,2,True
+GSM331013,CLL,diagnosis,CLL,1,2,True
+GSM331014,CLL,diagnosis,CLL,1,2,True
+GSM331015,CLL,diagnosis,CLL,1,2,True
+GSM331016,CLL,diagnosis,CLL,1,2,True
+GSM331017,CLL,diagnosis,CLL,1,2,True
+GSM331018,CLL,diagnosis,CLL,1,2,True
+GSM331019,CLL,diagnosis,CLL,1,2,True
+GSM331020,CLL,diagnosis,CLL,1,2,True
+GSM331021,CLL,diagnosis,CLL,1,2,True
+GSM331022,CLL,diagnosis,CLL,1,2,True
+GSM331023,CLL,diagnosis,CLL,1,2,True
+GSM331024,CLL,diagnosis,CLL,1,2,True
+GSM331025,CLL,diagnosis,CLL,1,2,True
+GSM331026,CLL,diagnosis,CLL,1,2,True
+GSM331027,CLL,diagnosis,CLL,1,2,True
+GSM331028,CLL,diagnosis,CLL,1,2,True
+GSM331029,CLL,diagnosis,CLL,1,2,True
+GSM331030,CLL,diagnosis,CLL,1,2,True
+GSM331031,CLL,diagnosis,CLL,1,2,True
+GSM331032,CLL,diagnosis,CLL,1,2,True
+GSM331033,CLL,diagnosis,CLL,1,2,True
+GSM331034,CLL,diagnosis,CLL,1,2,True
+GSM331035,CLL,diagnosis,CLL,1,2,True
+GSM331036,CLL,diagnosis,CLL,1,2,True
+GSM331037,CLL,diagnosis,CLL,1,2,True
+GSM331038,CLL,diagnosis,CLL,1,2,True
+GSM331039,CLL,diagnosis,CLL,1,2,True
+GSM331040,CLL,diagnosis,CLL,1,2,True
+GSM331041,CLL,diagnosis,CLL,1,2,True
+GSM331042,CLL,diagnosis,CLL,1,2,True
+GSM331043,CLL,diagnosis,CLL,1,2,True
+GSM331044,CLL,diagnosis,CLL,1,2,True
+GSM331045,CLL,diagnosis,CLL,1,2,True
+GSM331046,CLL,diagnosis,CLL,1,2,True
+GSM331047,CLL,diagnosis,CLL,1,2,True
+GSM331048,CLL,diagnosis,CLL,1,2,True
+GSM331049,CLL,diagnosis,CLL,1,2,True
+GSM331050,CLL,diagnosis,CLL,1,2,True
+GSM331051,CLL,diagnosis,CLL,1,2,True
+GSM331052,CLL,diagnosis,CLL,1,2,True
+GSM331053,CLL,diagnosis,CLL,1,2,True
+GSM331054,CLL,diagnosis,CLL,1,2,True
+GSM331055,CLL,diagnosis,CLL,1,2,True
+GSM331056,CLL,diagnosis,CLL,1,2,True
+GSM331057,CLL,diagnosis,CLL,1,2,True
+GSM331058,CLL,diagnosis,CLL,1,2,True
+GSM331059,CLL,diagnosis,CLL,1,2,True
+GSM331060,CLL,diagnosis,CLL,1,2,True
+GSM331061,CLL,diagnosis,CLL,1,2,True
+GSM331062,CLL,diagnosis,CLL,1,2,True
+GSM331063,CLL,diagnosis,CLL,1,2,True
+GSM331064,CLL,diagnosis,CLL,1,2,True
+GSM331065,CLL,diagnosis,CLL,1,2,True
+GSM331066,CLL,diagnosis,CLL,1,2,True
+GSM331067,CLL,diagnosis,CLL,1,2,True
+GSM331068,CLL,diagnosis,CLL,1,2,True
+GSM331069,CLL,diagnosis,CLL,1,2,True
+GSM331070,CLL,diagnosis,CLL,1,2,True
+GSM331071,CLL,diagnosis,CLL,1,2,True
+GSM331072,CLL,diagnosis,CLL,1,2,True
+GSM331073,CLL,diagnosis,CLL,1,2,True
+GSM331074,CLL,diagnosis,CLL,1,2,True
+GSM331075,CLL,diagnosis,CLL,1,2,True
+GSM331076,CLL,diagnosis,CLL,1,2,True
+GSM331077,CLL,diagnosis,CLL,1,2,True
+GSM331078,CLL,diagnosis,CLL,1,2,True
+GSM331079,CLL,diagnosis,CLL,1,2,True
+GSM331080,CLL,diagnosis,CLL,1,2,True
+GSM331081,CLL,diagnosis,CLL,1,2,True
+GSM331082,CLL,diagnosis,CLL,1,2,True
+GSM331083,CLL,diagnosis,CLL,1,2,True
+GSM331084,CLL,diagnosis,CLL,1,2,True
+GSM331085,CLL,diagnosis,CLL,1,2,True
+GSM331086,CLL,diagnosis,CLL,1,2,True
+GSM331087,CLL,diagnosis,CLL,1,2,True
+GSM331088,CLL,diagnosis,CLL,1,2,True
+GSM331089,CLL,diagnosis,CLL,1,2,True
+GSM331090,CLL,diagnosis,CLL,1,2,True
+GSM331091,CLL,diagnosis,CLL,1,2,True
+GSM331092,CLL,diagnosis,CLL,1,2,True
+GSM331093,CLL,diagnosis,CLL,1,2,True
+GSM331094,CLL,diagnosis,CLL,1,2,True
+GSM331095,CLL,diagnosis,CLL,1,2,True
+GSM331096,CLL,diagnosis,CLL,1,2,True
+GSM331097,CLL,diagnosis,CLL,1,2,True
+GSM331098,CLL,diagnosis,CLL,1,2,True
+GSM331099,CLL,diagnosis,CLL,1,2,True
+GSM331100,CLL,diagnosis,CLL,1,2,True
+GSM331101,CLL,diagnosis,CLL,1,2,True
+GSM331102,CLL,diagnosis,CLL,1,2,True
+GSM331103,CLL,diagnosis,CLL,1,2,True
+GSM331104,CLL,diagnosis,CLL,1,2,True
+GSM331105,CLL,diagnosis,CLL,1,2,True
+GSM331106,CLL,diagnosis,CLL,1,2,True
+GSM331107,CLL,diagnosis,CLL,1,2,True
+GSM331108,CLL,diagnosis,CLL,1,2,True
+GSM331109,CLL,diagnosis,CLL,1,2,True
+GSM331110,CLL,diagnosis,CLL,1,2,True
+GSM331111,CLL,diagnosis,CLL,1,2,True
+GSM331112,CLL,diagnosis,CLL,1,2,True
+GSM331113,CLL,diagnosis,CLL,1,2,True
+GSM331114,CLL,diagnosis,CLL,1,2,True
+GSM331115,CLL,diagnosis,CLL,1,2,True
+GSM331116,CLL,diagnosis,CLL,1,2,True
+GSM331117,CLL,diagnosis,CLL,1,2,True
+GSM331118,CLL,diagnosis,CLL,1,2,True
+GSM331119,CLL,diagnosis,CLL,1,2,True
+GSM331120,CLL,diagnosis,CLL,1,2,True
+GSM331121,CLL,diagnosis,CLL,1,2,True
+GSM331122,CLL,diagnosis,CLL,1,2,True
+GSM331123,CLL,diagnosis,CLL,1,2,True
+GSM331124,CLL,diagnosis,CLL,1,2,True
+GSM331125,CLL,diagnosis,CLL,1,2,True
+GSM331126,CLL,diagnosis,CLL,1,2,True
+GSM331127,CLL,diagnosis,CLL,1,2,True
+GSM331128,CLL,diagnosis,CLL,1,2,True
+GSM331129,CLL,diagnosis,CLL,1,2,True
+GSM331130,CLL,diagnosis,CLL,1,2,True
+GSM331131,CLL,diagnosis,CLL,1,2,True
+GSM331132,CLL,diagnosis,CLL,1,2,True
+GSM331133,CLL,diagnosis,CLL,1,2,True
+GSM331134,CLL,diagnosis,CLL,1,2,True
+GSM331135,CLL,diagnosis,CLL,1,2,True
+GSM331136,CLL,diagnosis,CLL,1,2,True
+GSM331137,CLL,diagnosis,CLL,1,2,True
+GSM331138,CLL,diagnosis,CLL,1,2,True
+GSM331139,CLL,diagnosis,CLL,1,2,True
+GSM331140,CLL,diagnosis,CLL,1,2,True
+GSM331141,CLL,diagnosis,CLL,1,2,True
+GSM331142,CLL,diagnosis,CLL,1,2,True
+GSM331143,CLL,diagnosis,CLL,1,2,True
+GSM331144,CLL,diagnosis,CLL,1,2,True
+GSM331145,CLL,diagnosis,CLL,1,2,True
+GSM331146,CLL,diagnosis,CLL,1,2,True
+GSM331147,CLL,diagnosis,CLL,1,2,True
+GSM331148,CLL,diagnosis,CLL,1,2,True
+GSM331149,CLL,diagnosis,CLL,1,2,True
+GSM331150,CLL,diagnosis,CLL,1,2,True
+GSM331151,CLL,diagnosis,CLL,1,2,True
+GSM331152,CLL,diagnosis,CLL,1,2,True
+GSM331153,CLL,diagnosis,CLL,1,2,True
+GSM331154,CLL,diagnosis,CLL,1,2,True
+GSM331155,CLL,diagnosis,CLL,1,2,True
+GSM331156,CLL,diagnosis,CLL,1,2,True
+GSM331157,CLL,diagnosis,CLL,1,2,True
+GSM331158,CLL,diagnosis,CLL,1,2,True
+GSM331159,CLL,diagnosis,CLL,1,2,True
+GSM331160,CLL,diagnosis,CLL,1,2,True
+GSM331161,CLL,diagnosis,CLL,1,2,True
+GSM331162,CLL,diagnosis,CLL,1,2,True
+GSM331163,CLL,diagnosis,CLL,1,2,True
+GSM331164,CLL,diagnosis,CLL,1,2,True
+GSM331165,CLL,diagnosis,CLL,1,2,True
+GSM331166,CLL,diagnosis,CLL,1,2,True
+GSM331167,CLL,diagnosis,CLL,1,2,True
+GSM331168,CLL,diagnosis,CLL,1,2,True
+GSM331169,CLL,diagnosis,CLL,1,2,True
+GSM331170,CLL,diagnosis,CLL,1,2,True
+GSM331171,CLL,diagnosis,CLL,1,2,True
+GSM331172,CLL,diagnosis,CLL,1,2,True
+GSM331173,CLL,diagnosis,CLL,1,2,True
+GSM331174,CLL,diagnosis,CLL,1,2,True
+GSM331175,CLL,diagnosis,CLL,1,2,True
+GSM331176,CLL,diagnosis,CLL,1,2,True
+GSM331177,CLL,diagnosis,CLL,1,2,True
+GSM331178,CLL,diagnosis,CLL,1,2,True
+GSM331179,CLL,diagnosis,CLL,1,2,True
+GSM331180,CLL,diagnosis,CLL,1,2,True
+GSM331181,CLL,diagnosis,CLL,1,2,True
+GSM331182,CLL,diagnosis,CLL,1,2,True
+GSM331183,CLL,diagnosis,CLL,1,2,True
+GSM331184,CLL,diagnosis,CLL,1,2,True
+GSM331185,CLL,diagnosis,CLL,1,2,True
+GSM331186,CLL,diagnosis,CLL,1,2,True
+GSM331187,CLL,diagnosis,CLL,1,2,True
+GSM331188,CLL,diagnosis,CLL,1,2,True
+GSM331189,CLL,diagnosis,CLL,1,2,True
+GSM331190,CLL,diagnosis,CLL,1,2,True
+GSM331191,CLL,diagnosis,CLL,1,2,True
+GSM331192,CLL,diagnosis,CLL,1,2,True
+GSM331193,CLL,diagnosis,CLL,1,2,True
+GSM331194,CLL,diagnosis,CLL,1,2,True
+GSM331195,CLL,diagnosis,CLL,1,2,True
+GSM331196,CLL,diagnosis,CLL,1,2,True
+GSM331197,CLL,diagnosis,CLL,1,2,True
+GSM331198,CLL,diagnosis,CLL,1,2,True
+GSM331199,CLL,diagnosis,CLL,1,2,True
+GSM331200,CLL,diagnosis,CLL,1,2,True
+GSM331201,CLL,diagnosis,CLL,1,2,True
+GSM331202,CLL,diagnosis,CLL,1,2,True
+GSM331203,CLL,diagnosis,CLL,1,2,True
+GSM331204,CLL,diagnosis,CLL,1,2,True
+GSM331205,CLL,diagnosis,CLL,1,2,True
+GSM331206,CLL,diagnosis,CLL,1,2,True
+GSM331207,CLL,diagnosis,CLL,1,2,True
+GSM331208,CLL,diagnosis,CLL,1,2,True
+GSM331209,CLL,diagnosis,CLL,1,2,True
+GSM331210,CLL,diagnosis,CLL,1,2,True
+GSM331211,CLL,diagnosis,CLL,1,2,True
+GSM331212,CLL,diagnosis,CLL,1,2,True
+GSM331213,CLL,diagnosis,CLL,1,2,True
+GSM331214,CLL,diagnosis,CLL,1,2,True
+GSM331215,CLL,diagnosis,CLL,1,2,True
+GSM331216,CLL,diagnosis,CLL,1,2,True
+GSM331217,CLL,diagnosis,CLL,1,2,True
+GSM331218,CLL,diagnosis,CLL,1,2,True
+GSM331219,CLL,diagnosis,CLL,1,2,True
+GSM331220,CLL,diagnosis,CLL,1,2,True
+GSM331221,CLL,diagnosis,CLL,1,2,True
+GSM331222,CLL,diagnosis,CLL,1,2,True
+GSM331223,CLL,diagnosis,CLL,1,2,True
+GSM331224,CLL,diagnosis,CLL,1,2,True
+GSM331225,CLL,diagnosis,CLL,1,2,True
+GSM331226,CLL,diagnosis,CLL,1,2,True
+GSM331227,CLL,diagnosis,CLL,1,2,True
+GSM331228,CLL,diagnosis,CLL,1,2,True
+GSM331229,CLL,diagnosis,CLL,1,2,True
+GSM331230,CLL,diagnosis,CLL,1,2,True
+GSM331231,CLL,diagnosis,CLL,1,2,True
+GSM331232,CLL,diagnosis,CLL,1,2,True
+GSM331233,CLL,diagnosis,CLL,1,2,True
+GSM331234,CLL,diagnosis,CLL,1,2,True
+GSM331235,CLL,diagnosis,CLL,1,2,True
+GSM331236,CLL,diagnosis,CLL,1,2,True
+GSM331237,CLL,diagnosis,CLL,1,2,True
+GSM331238,CLL,diagnosis,CLL,1,2,True
+GSM331239,CLL,diagnosis,CLL,1,2,True
+GSM331240,CLL,diagnosis,CLL,1,2,True
+GSM331241,CLL,diagnosis,CLL,1,2,True
+GSM331242,CLL,diagnosis,CLL,1,2,True
+GSM331243,CLL,diagnosis,CLL,1,2,True
+GSM331244,CLL,diagnosis,CLL,1,2,True
+GSM331245,CLL,diagnosis,CLL,1,2,True
+GSM331246,CLL,diagnosis,CLL,1,2,True
+GSM331247,CLL,diagnosis,CLL,1,2,True
+GSM331248,CLL,diagnosis,CLL,1,2,True
+GSM331249,CLL,diagnosis,CLL,1,2,True
+GSM331250,CLL,diagnosis,CLL,1,2,True
+GSM331251,CLL,diagnosis,CLL,1,2,True
+GSM331252,CLL,diagnosis,CLL,1,2,True
+GSM331253,CLL,diagnosis,CLL,1,2,True
+GSM331254,CLL,diagnosis,CLL,1,2,True
+GSM331255,CLL,diagnosis,CLL,1,2,True
+GSM331256,CLL,diagnosis,CLL,1,2,True
+GSM331257,CLL,diagnosis,CLL,1,2,True
+GSM331258,CLL,diagnosis,CLL,1,2,True
+GSM331259,CLL,diagnosis,CLL,1,2,True
+GSM331260,CLL,diagnosis,CLL,1,2,True
+GSM331261,CLL,diagnosis,CLL,1,2,True
+GSM331262,CLL,diagnosis,CLL,1,2,True
+GSM331263,CLL,diagnosis,CLL,1,2,True
+GSM331264,CLL,diagnosis,CLL,1,2,True
+GSM331265,CLL,diagnosis,CLL,1,2,True
+GSM331266,CLL,diagnosis,CLL,1,2,True
+GSM331267,CLL,diagnosis,CLL,1,2,True
+GSM331268,CLL,diagnosis,CLL,1,2,True
+GSM331269,CLL,diagnosis,CLL,1,2,True
+GSM331270,CLL,diagnosis,CLL,1,2,True
+GSM331271,CLL,diagnosis,CLL,1,2,True
+GSM331272,CLL,diagnosis,CLL,1,2,True
+GSM331273,CLL,diagnosis,CLL,1,2,True
+GSM331274,CLL,diagnosis,CLL,1,2,True
+GSM331275,CLL,diagnosis,CLL,1,2,True
+GSM331276,CLL,diagnosis,CLL,1,2,True
+GSM331277,CLL,diagnosis,CLL,1,2,True
+GSM331278,CLL,diagnosis,CLL,1,2,True
+GSM331279,CLL,diagnosis,CLL,1,2,True
+GSM331280,CLL,diagnosis,CLL,5,4,True
+GSM331281,CLL,diagnosis,CLL,1,2,True
+GSM331282,CLL,diagnosis,CLL,1,2,True
+GSM331283,CLL,diagnosis,CLL,1,2,True
+GSM331284,CLL,diagnosis,CLL,1,2,True
+GSM331285,CLL,diagnosis,CLL,1,2,True
+GSM331286,CLL,diagnosis,CLL,1,2,True
+GSM331287,CLL,diagnosis,CLL,1,2,True
+GSM331288,CLL,diagnosis,CLL,1,2,True
+GSM331289,CLL,diagnosis,CLL,1,2,True
+GSM331290,CLL,diagnosis,CLL,1,2,True
+GSM331291,CLL,diagnosis,CLL,1,2,True
+GSM331292,CLL,diagnosis,CLL,1,2,True
+GSM331293,CLL,diagnosis,CLL,1,2,True
+GSM331294,CLL,diagnosis,CLL,1,2,True
+GSM331295,CLL,diagnosis,CLL,1,2,True
+GSM331296,CLL,diagnosis,CLL,1,2,True
+GSM331297,CLL,diagnosis,CLL,1,2,True
+GSM331298,CLL,diagnosis,CLL,1,2,True
+GSM331299,CLL,diagnosis,CLL,1,2,True
+GSM331300,CLL,diagnosis,CLL,1,2,True
+GSM331301,CLL,diagnosis,CLL,1,2,True
+GSM331302,CLL,diagnosis,CLL,1,2,True
+GSM331303,CLL,diagnosis,CLL,1,2,True
+GSM331304,CLL,diagnosis,CLL,1,2,True
+GSM331305,CLL,diagnosis,CLL,1,2,True
+GSM331306,CLL,diagnosis,CLL,1,2,True
+GSM331307,CLL,diagnosis,CLL,1,2,True
+GSM331308,CLL,diagnosis,CLL,1,2,True
+GSM331309,CLL,diagnosis,CLL,1,2,True
+GSM331310,CLL,diagnosis,CLL,1,2,True
+GSM331311,CLL,diagnosis,CLL,1,2,True
+GSM331312,CLL,diagnosis,CLL,1,2,True
+GSM331313,CLL,diagnosis,CLL,1,2,True
+GSM331314,CLL,diagnosis,CLL,1,2,True
+GSM331315,CLL,diagnosis,CLL,1,2,True
+GSM331316,CLL,diagnosis,CLL,1,2,True
+GSM331317,CLL,diagnosis,CLL,1,2,True
+GSM331318,CLL,diagnosis,CLL,1,2,True
+GSM331319,CLL,diagnosis,CLL,1,2,True
+GSM331320,CLL,diagnosis,CLL,1,2,True
+GSM331321,CLL,diagnosis,CLL,1,2,True
+GSM331322,CLL,diagnosis,CLL,5,4,True
+GSM331323,CLL,diagnosis,CLL,1,2,True
+GSM331324,CLL,diagnosis,CLL,1,2,True
+GSM331325,CLL,diagnosis,CLL,1,2,True
+GSM331326,CLL,diagnosis,CLL,1,2,True
+GSM331327,CLL,diagnosis,CLL,1,2,True
+GSM331328,CLL,diagnosis,CLL,1,2,True
+GSM331329,CLL,diagnosis,CLL,1,2,True
+GSM331330,CLL,diagnosis,CLL,1,2,True
+GSM331331,CLL,diagnosis,CLL,1,2,True
+GSM331332,CLL,diagnosis,CLL,1,2,True
+GSM331333,CLL,diagnosis,CLL,1,2,True
+GSM331334,CLL,diagnosis,CLL,1,2,True
+GSM331335,CLL,diagnosis,CLL,1,2,True
+GSM331336,CLL,diagnosis,CLL,1,2,True
+GSM331337,CLL,diagnosis,CLL,1,2,True
+GSM331338,CLL,diagnosis,CLL,1,2,True
+GSM331339,CLL,diagnosis,CLL,1,2,True
+GSM331340,CLL,diagnosis,CLL,1,2,True
+GSM331341,CLL,diagnosis,CLL,1,2,True
+GSM331342,CLL,diagnosis,CLL,1,2,True
+GSM331343,CLL,diagnosis,CLL,1,2,True
+GSM331344,CLL,diagnosis,CLL,1,2,True
+GSM331345,CLL,diagnosis,CLL,1,2,True
+GSM331346,CLL,diagnosis,CLL,1,2,True
+GSM331347,CLL,diagnosis,CLL,1,2,True
+GSM331348,CLL,diagnosis,CLL,1,2,True
+GSM331349,CLL,diagnosis,CLL,1,2,True
+GSM331350,CLL,diagnosis,CLL,1,2,True
+GSM331351,CLL,diagnosis,CLL,1,2,True
+GSM331352,CLL,diagnosis,CLL,1,2,True
+GSM331353,CLL,diagnosis,CLL,1,2,True
+GSM331354,CLL,diagnosis,CLL,1,2,True
+GSM331355,CLL,diagnosis,CLL,1,2,True
+GSM331356,CLL,diagnosis,CLL,1,2,True
+GSM331357,CLL,diagnosis,CLL,1,2,True
+GSM331358,CLL,diagnosis,CLL,1,2,True
+GSM331359,CLL,diagnosis,CLL,1,2,True
+GSM331360,CLL,diagnosis,CLL,1,2,True
+GSM331361,CLL,diagnosis,CLL,1,2,True
+GSM331362,CLL,diagnosis,CLL,1,2,True
+GSM331363,CLL,diagnosis,CLL,1,2,True
+GSM331364,CLL,diagnosis,CLL,1,2,True
+GSM331365,CLL,diagnosis,CLL,1,2,True
+GSM331366,CLL,diagnosis,CLL,1,2,True
+GSM331367,CLL,diagnosis,CLL,1,2,True
+GSM331368,CLL,diagnosis,CLL,1,2,True
+GSM331369,CLL,diagnosis,CLL,1,2,True
+GSM331370,CLL,diagnosis,CLL,1,2,True
+GSM331371,CLL,diagnosis,CLL,1,2,True
+GSM331372,CLL,diagnosis,CLL,1,2,True
+GSM331373,CLL,diagnosis,CLL,1,2,True
+GSM331374,CLL,diagnosis,CLL,1,2,True
+GSM331375,CLL,diagnosis,CLL,1,2,True
+GSM331376,CLL,diagnosis,CLL,1,2,True
+GSM331377,CML,diagnosis,CML,5,4,True
+GSM331378,CML,diagnosis,CML,5,4,True
+GSM331379,CML,diagnosis,CML,5,4,True
+GSM331380,CML,diagnosis,CML,5,4,True
+GSM331381,CML,diagnosis,CML,5,4,True
+GSM331382,CML,diagnosis,CML,5,4,True
+GSM331383,CML,diagnosis,CML,5,4,True
+GSM331384,CML,diagnosis,CML,5,4,True
+GSM331385,CML,diagnosis,CML,5,4,True
+GSM331386,CML,diagnosis,CML,5,4,True
+GSM331387,CML,diagnosis,CML,5,4,True
+GSM331388,CML,diagnosis,CML,5,4,True
+GSM331389,CML,diagnosis,CML,5,4,True
+GSM331390,CML,diagnosis,CML,5,4,True
+GSM331391,CML,diagnosis,CML,5,4,True
+GSM331392,CML,diagnosis,CML,5,4,True
+GSM331393,CML,diagnosis,CML,5,4,True
+GSM331394,CML,diagnosis,CML,5,4,True
+GSM331395,CML,diagnosis,CML,5,4,True
+GSM331396,CML,diagnosis,CML,5,4,True
+GSM331397,CML,diagnosis,CML,5,4,True
+GSM331398,CML,diagnosis,CML,5,4,True
+GSM331399,CML,diagnosis,CML,5,4,True
+GSM331400,CML,diagnosis,CML,5,4,True
+GSM331401,CML,diagnosis,CML,5,4,True
+GSM331402,CML,diagnosis,CML,5,4,True
+GSM331403,CML,diagnosis,CML,5,4,True
+GSM331404,CML,diagnosis,CML,5,4,True
+GSM331405,CML,diagnosis,CML,5,4,True
+GSM331406,CML,diagnosis,CML,5,4,True
+GSM331407,CML,diagnosis,CML,5,4,True
+GSM331408,CML,diagnosis,CML,5,4,True
+GSM331409,CML,diagnosis,CML,5,4,True
+GSM331410,CML,diagnosis,CML,5,4,True
+GSM331411,CML,diagnosis,CML,5,4,True
+GSM331412,CML,diagnosis,CML,5,4,True
+GSM331413,CML,diagnosis,CML,5,4,True
+GSM331414,CML,diagnosis,CML,5,4,True
+GSM331415,CML,diagnosis,CML,5,4,True
+GSM331416,CML,diagnosis,CML,5,4,True
+GSM331417,CML,diagnosis,CML,5,4,True
+GSM331418,CML,diagnosis,CML,5,4,True
+GSM331419,CML,diagnosis,CML,5,4,True
+GSM331420,CML,diagnosis,CML,5,4,True
+GSM331421,CML,diagnosis,CML,5,4,True
+GSM331422,CML,diagnosis,CML,5,4,True
+GSM331423,CML,diagnosis,CML,5,4,True
+GSM331424,CML,diagnosis,CML,5,4,True
+GSM331425,CML,diagnosis,CML,5,4,True
+GSM331426,CML,diagnosis,CML,5,4,True
+GSM331427,CML,diagnosis,CML,5,4,True
+GSM331428,CML,diagnosis,CML,5,4,True
+GSM331429,CML,diagnosis,CML,5,4,True
+GSM331430,CML,diagnosis,CML,5,4,True
+GSM331431,CML,diagnosis,CML,5,4,True
+GSM331432,CML,diagnosis,CML,5,4,True
+GSM331433,CML,diagnosis,CML,5,4,True
+GSM331434,CML,diagnosis,CML,5,4,True
+GSM331435,CML,diagnosis,CML,5,4,True
+GSM331436,CML,diagnosis,CML,3,3,True
+GSM331437,CML,diagnosis,CML,5,4,True
+GSM331438,CML,diagnosis,CML,5,4,True
+GSM331439,CML,diagnosis,CML,5,4,True
+GSM331440,CML,diagnosis,CML,5,4,True
+GSM331441,CML,diagnosis,CML,5,4,True
+GSM331442,CML,diagnosis,CML,5,4,True
+GSM331443,CML,diagnosis,CML,5,4,True
+GSM331444,CML,diagnosis,CML,5,4,True
+GSM331445,CML,diagnosis,CML,5,1,True
+GSM331446,CML,diagnosis,CML,5,4,True
+GSM331447,CML,diagnosis,CML,5,4,True
+GSM331448,CML,diagnosis,CML,5,4,True
+GSM331449,CML,diagnosis,CML,5,4,True
+GSM331450,CML,diagnosis,CML,5,4,True
+GSM331451,CML,diagnosis,CML,5,4,True
+GSM331452,CML,diagnosis,CML,5,4,True
+GSM331453,MDS,diagnosis,MDS,5,4,True
+GSM331454,MDS,diagnosis,MDS,5,4,True
+GSM331455,MDS,diagnosis,MDS,5,4,True
+GSM331456,MDS,diagnosis,MDS,5,4,True
+GSM331457,MDS,diagnosis,MDS,5,4,True
+GSM331458,MDS,diagnosis,MDS,5,4,True
+GSM331459,MDS,diagnosis,MDS,5,4,True
+GSM331460,MDS,diagnosis,MDS,5,4,True
+GSM331461,MDS,diagnosis,MDS,5,4,True
+GSM331462,MDS,diagnosis,MDS,5,4,True
+GSM331463,MDS,diagnosis,MDS,5,4,True
+GSM331464,MDS,diagnosis,MDS,5,4,True
+GSM331465,MDS,diagnosis,MDS,5,4,True
+GSM331466,MDS,diagnosis,MDS,5,4,True
+GSM331467,MDS,diagnosis,MDS,5,4,True
+GSM331468,MDS,diagnosis,MDS,5,4,True
+GSM331469,MDS,diagnosis,MDS,5,4,True
+GSM331470,MDS,diagnosis,MDS,5,4,True
+GSM331471,MDS,diagnosis,MDS,5,4,True
+GSM331472,MDS,diagnosis,MDS,5,4,True
+GSM331473,MDS,diagnosis,MDS,5,4,True
+GSM331474,MDS,diagnosis,MDS,5,4,True
+GSM331475,MDS,diagnosis,MDS,5,4,True
+GSM331476,MDS,diagnosis,MDS,5,4,True
+GSM331477,MDS,diagnosis,MDS,5,4,True
+GSM331478,MDS,diagnosis,MDS,5,4,True
+GSM331479,MDS,diagnosis,MDS,5,4,True
+GSM331480,MDS,diagnosis,MDS,5,4,True
+GSM331481,MDS,diagnosis,MDS,5,4,True
+GSM331482,MDS,diagnosis,MDS,5,4,True
+GSM331483,MDS,diagnosis,MDS,5,4,True
+GSM331484,MDS,diagnosis,MDS,5,4,True
+GSM331485,MDS,diagnosis,MDS,5,4,True
+GSM331486,MDS,diagnosis,MDS,5,4,True
+GSM331487,MDS,diagnosis,MDS,5,4,True
+GSM331488,MDS,diagnosis,MDS,5,4,True
+GSM331489,MDS,diagnosis,MDS,5,4,True
+GSM331490,MDS,diagnosis,MDS,5,4,True
+GSM331491,MDS,diagnosis,MDS,5,4,True
+GSM331492,MDS,diagnosis,MDS,5,4,True
+GSM331493,MDS,diagnosis,MDS,5,4,True
+GSM331494,MDS,diagnosis,MDS,5,4,True
+GSM331495,MDS,diagnosis,MDS,5,4,True
+GSM331496,MDS,diagnosis,MDS,5,4,True
+GSM331497,MDS,diagnosis,MDS,5,4,True
+GSM331498,MDS,diagnosis,MDS,5,4,True
+GSM331499,MDS,diagnosis,MDS,5,4,True
+GSM331500,MDS,diagnosis,MDS,5,4,True
+GSM331501,MDS,diagnosis,MDS,5,4,True
+GSM331502,MDS,diagnosis,MDS,5,4,True
+GSM331503,MDS,diagnosis,MDS,5,4,True
+GSM331504,MDS,diagnosis,MDS,5,4,True
+GSM331505,MDS,diagnosis,MDS,5,4,True
+GSM331506,MDS,diagnosis,MDS,5,4,True
+GSM331507,MDS,diagnosis,MDS,5,4,True
+GSM331508,MDS,diagnosis,MDS,5,4,True
+GSM331509,MDS,diagnosis,MDS,5,4,True
+GSM331510,MDS,diagnosis,MDS,5,4,True
+GSM331511,MDS,diagnosis,MDS,5,4,True
+GSM331512,MDS,diagnosis,MDS,5,4,True
+GSM331513,MDS,diagnosis,MDS,5,4,True
+GSM331514,MDS,diagnosis,MDS,5,4,True
+GSM331515,MDS,diagnosis,MDS,5,4,True
+GSM331516,MDS,diagnosis,MDS,5,4,True
+GSM331517,MDS,diagnosis,MDS,5,4,True
+GSM331518,MDS,diagnosis,MDS,5,4,True
+GSM331519,MDS,diagnosis,MDS,5,4,True
+GSM331520,MDS,diagnosis,MDS,5,4,True
+GSM331521,MDS,diagnosis,MDS,5,4,True
+GSM331522,MDS,diagnosis,MDS,5,4,True
+GSM331523,MDS,diagnosis,MDS,5,4,True
+GSM331524,MDS,diagnosis,MDS,5,4,True
+GSM331525,MDS,diagnosis,MDS,5,4,True
+GSM331526,MDS,diagnosis,MDS,5,4,True
+GSM331527,MDS,diagnosis,MDS,5,4,True
+GSM331528,MDS,diagnosis,MDS,5,4,True
+GSM331529,MDS,diagnosis,MDS,5,4,True
+GSM331530,MDS,diagnosis,MDS,5,4,True
+GSM331531,MDS,diagnosis,MDS,5,4,True
+GSM331532,MDS,diagnosis,MDS,5,4,True
+GSM331533,MDS,diagnosis,MDS,5,4,True
+GSM331534,MDS,diagnosis,MDS,5,4,True
+GSM331535,MDS,diagnosis,MDS,5,4,True
+GSM331536,MDS,diagnosis,MDS,5,4,True
+GSM331537,MDS,diagnosis,MDS,5,4,True
+GSM331538,MDS,diagnosis,MDS,5,4,True
+GSM331539,MDS,diagnosis,MDS,5,4,True
+GSM331540,MDS,diagnosis,MDS,5,4,True
+GSM331541,MDS,diagnosis,MDS,5,4,True
+GSM331542,MDS,diagnosis,MDS,5,4,True
+GSM331543,MDS,diagnosis,MDS,5,4,True
+GSM331544,MDS,diagnosis,MDS,5,4,True
+GSM331545,MDS,diagnosis,MDS,5,4,True
+GSM331546,MDS,diagnosis,MDS,5,4,True
+GSM331547,MDS,diagnosis,MDS,5,4,True
+GSM331548,MDS,diagnosis,MDS,5,4,True
+GSM331549,MDS,diagnosis,MDS,5,4,True
+GSM331550,MDS,diagnosis,MDS,5,4,True
+GSM331551,MDS,diagnosis,MDS,5,4,True
+GSM331552,MDS,diagnosis,MDS,5,4,True
+GSM331553,MDS,diagnosis,MDS,5,4,True
+GSM331554,MDS,diagnosis,MDS,5,4,True
+GSM331555,MDS,diagnosis,MDS,5,4,True
+GSM331556,MDS,diagnosis,MDS,5,4,True
+GSM331557,MDS,diagnosis,MDS,5,4,True
+GSM331558,MDS,diagnosis,MDS,5,4,True
+GSM331559,MDS,diagnosis,MDS,5,4,True
+GSM331560,MDS,diagnosis,MDS,5,4,True
+GSM331561,MDS,diagnosis,MDS,5,4,True
+GSM331562,MDS,diagnosis,MDS,5,4,True
+GSM331563,MDS,diagnosis,MDS,5,4,True
+GSM331564,MDS,diagnosis,MDS,5,4,True
+GSM331565,MDS,diagnosis,MDS,5,4,True
+GSM331566,MDS,diagnosis,MDS,5,4,True
+GSM331567,MDS,diagnosis,MDS,5,4,True
+GSM331568,MDS,diagnosis,MDS,5,4,True
+GSM331569,MDS,diagnosis,MDS,5,4,True
+GSM331570,MDS,diagnosis,MDS,5,4,True
+GSM331571,MDS,diagnosis,MDS,5,4,True
+GSM331572,MDS,diagnosis,MDS,5,4,True
+GSM331573,MDS,diagnosis,MDS,5,4,True
+GSM331574,MDS,diagnosis,MDS,5,4,True
+GSM331575,MDS,diagnosis,MDS,5,4,True
+GSM331576,MDS,diagnosis,MDS,5,4,True
+GSM331577,MDS,diagnosis,MDS,5,4,True
+GSM331578,MDS,diagnosis,MDS,5,4,True
+GSM331579,MDS,diagnosis,MDS,5,4,True
+GSM331580,MDS,diagnosis,MDS,5,4,True
+GSM331581,MDS,diagnosis,MDS,5,4,True
+GSM331582,MDS,diagnosis,MDS,5,4,True
+GSM331583,MDS,diagnosis,MDS,5,4,True
+GSM331584,MDS,diagnosis,MDS,5,4,True
+GSM331585,MDS,diagnosis,MDS,5,4,True
+GSM331586,MDS,diagnosis,MDS,5,4,True
+GSM331587,MDS,diagnosis,MDS,5,4,True
+GSM331588,MDS,diagnosis,MDS,5,4,True
+GSM331589,MDS,diagnosis,MDS,5,4,True
+GSM331590,MDS,diagnosis,MDS,5,4,True
+GSM331591,MDS,diagnosis,MDS,5,4,True
+GSM331592,MDS,diagnosis,MDS,5,4,True
+GSM331593,MDS,diagnosis,MDS,5,4,True
+GSM331594,MDS,diagnosis,MDS,5,4,True
+GSM331595,MDS,diagnosis,MDS,5,4,True
+GSM331596,MDS,diagnosis,MDS,5,4,True
+GSM331597,MDS,diagnosis,MDS,5,4,True
+GSM331598,MDS,diagnosis,MDS,5,4,True
+GSM331599,MDS,diagnosis,MDS,5,4,True
+GSM331600,MDS,diagnosis,MDS,5,4,True
+GSM331601,MDS,diagnosis,MDS,5,4,True
+GSM331602,MDS,diagnosis,MDS,5,4,True
+GSM331603,MDS,diagnosis,MDS,5,4,True
+GSM331604,MDS,diagnosis,MDS,5,4,True
+GSM331605,MDS,diagnosis,MDS,5,4,True
+GSM331606,MDS,diagnosis,MDS,5,4,True
+GSM331607,MDS,diagnosis,MDS,5,4,True
+GSM331608,MDS,diagnosis,MDS,5,4,True
+GSM331609,MDS,diagnosis,MDS,5,4,True
+GSM331610,MDS,diagnosis,MDS,5,4,True
+GSM331611,MDS,diagnosis,MDS,5,4,True
+GSM331612,MDS,diagnosis,MDS,5,4,True
+GSM331613,MDS,diagnosis,MDS,5,4,True
+GSM331614,MDS,diagnosis,MDS,5,4,True
+GSM331615,MDS,diagnosis,MDS,5,4,True
+GSM331616,MDS,diagnosis,MDS,5,4,True
+GSM331617,MDS,diagnosis,MDS,5,4,True
+GSM331618,MDS,diagnosis,MDS,5,4,True
+GSM331619,MDS,diagnosis,MDS,5,4,True
+GSM331620,MDS,diagnosis,MDS,5,4,True
+GSM331621,MDS,diagnosis,MDS,5,4,True
+GSM331622,MDS,diagnosis,MDS,5,4,True
+GSM331623,MDS,diagnosis,MDS,5,4,True
+GSM331624,MDS,diagnosis,MDS,5,4,True
+GSM331625,MDS,diagnosis,MDS,5,4,True
+GSM331626,MDS,diagnosis,MDS,5,4,True
+GSM331627,MDS,diagnosis,MDS,5,4,True
+GSM331628,MDS,diagnosis,MDS,5,4,True
+GSM331629,MDS,diagnosis,MDS,5,4,True
+GSM331630,MDS,diagnosis,MDS,5,4,True
+GSM331631,MDS,diagnosis,MDS,5,4,True
+GSM331632,MDS,diagnosis,MDS,5,4,True
+GSM331633,MDS,diagnosis,MDS,5,4,True
+GSM331634,MDS,diagnosis,MDS,5,4,True
+GSM331635,MDS,diagnosis,MDS,5,4,True
+GSM331636,MDS,diagnosis,MDS,5,4,True
+GSM331637,MDS,diagnosis,MDS,5,4,True
+GSM331638,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331639,MDS,diagnosis,MDS,5,4,True
+GSM331640,MDS,diagnosis,MDS,5,4,True
+GSM331641,MDS,diagnosis,MDS,5,4,True
+GSM331642,MDS,diagnosis,MDS,5,4,True
+GSM331643,MDS,diagnosis,MDS,5,4,True
+GSM331644,MDS,diagnosis,MDS,5,4,True
+GSM331645,MDS,diagnosis,MDS,5,4,True
+GSM331646,MDS,diagnosis,MDS,5,4,True
+GSM331647,MDS,diagnosis,MDS,5,4,True
+GSM331648,MDS,diagnosis,MDS,5,4,True
+GSM331649,MDS,diagnosis,MDS,5,4,True
+GSM331650,MDS,diagnosis,MDS,5,4,True
+GSM331651,MDS,diagnosis,MDS,5,4,True
+GSM331652,MDS,diagnosis,MDS,5,4,True
+GSM331653,MDS,diagnosis,MDS,5,4,True
+GSM331654,MDS,diagnosis,MDS,5,4,True
+GSM331655,MDS,diagnosis,MDS,5,4,True
+GSM331656,MDS,diagnosis,MDS,5,4,True
+GSM331657,MDS,diagnosis,MDS,5,4,True
+GSM331658,MDS,diagnosis,MDS,5,4,True
+GSM331659,MDS,diagnosis,MDS,5,4,True
+GSM331660,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331661,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331662,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331663,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331664,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331665,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331666,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331667,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,1,2,True
+GSM331668,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331669,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331670,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331671,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331672,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331673,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331674,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331675,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331676,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331677,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331678,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331679,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331680,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331681,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331682,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331683,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331684,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331685,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331686,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331687,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331688,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331689,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331690,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331691,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331692,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331693,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331694,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331695,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331696,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331697,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331698,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331699,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331700,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331701,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331702,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331703,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331704,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331705,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331706,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331707,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331708,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331709,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331710,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331711,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331712,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331713,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331714,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331715,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331716,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331717,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331718,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331719,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331720,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331721,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331722,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331723,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331724,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331725,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331726,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331727,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331728,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331729,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331730,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331731,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True
+GSM331732,Non-leukemia and healthy bone marrow,diagnosis,Non-leukemia and healthy bone marrow,5,4,True

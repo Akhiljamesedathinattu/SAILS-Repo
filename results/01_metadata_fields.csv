@@ -1,0 +1,36 @@
+field,occurrence,n_unique_values,constant,example
+title,1,2096,False,MILES stage 1 data N1_0001
+geo_accession,1,2096,False,GSM329407
+supplementary_file,1,2096,False,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM329nnn/GSM329407/suppl/GSM329407.CEL.gz
+characteristics_ch1,2,18,False,leukemia class: mature B-ALL with t(8;14)
+relation,1,3,False,Reanalyzed by: GSE122511
+last_update_date,1,3,False,Nov 14 2018
+characteristics_ch1,1,2,False,sample type: bone marrow
+submission_date,1,2,False,Oct 10 2008
+relation,2,2,False,
+status,1,1,True,Public on Sep 30 2009
+channel_count,1,1,True,1
+treatment_protocol_ch1,1,1,True,Samples are from untreated patients.
+growth_protocol_ch1,1,1,True,not applicable
+molecule_ch1,1,1,True,total RNA
+extract_protocol_ch1,1,1,True,"The total RNA was purified either with Qiagen RNeasy Mini kits (Qiagen, Hilden, Germany) or with TRIzol-based protocols"
+label_ch1,1,1,True,biotin
+type,1,1,True,RNA
+organism_ch1,1,1,True,Homo sapiens
+source_name_ch1,1,1,True,Leukemia patient sample
+hyb_protocol,1,1,True,"Hybridization, washing, and staining protocols, respectively, were performed on Affymetrix GeneChip instruments (Hybridi"
+taxid_ch1,1,1,True,9606
+label_protocol_ch1,1,1,True,"For each sample preparation, total RNA was converted into double-stranded cDNA by reverse transcription using a cDNA Syn"
+scan_protocol,1,1,True,Scanning was performed on Affymetrix GeneChip Scanner GCS3000 instruments as recommended by the manufacturer using defau
+contact_email,1,1,True,wei-min.liu@roche.com
+data_processing,1,1,True,Data pre-processing included a summarization and quantile normalization step to generate probe set level signal intensit
+platform_id,1,1,True,GPL570
+contact_name,1,1,True,"Wei-Min,,Liu"
+contact_address,1,1,True,4300 Hacienda Drive
+contact_institute,1,1,True,Roche Molecular Systems
+contact_phone,1,1,True,9257308446
+contact_city,1,1,True,Pleasanton
+contact_country,1,1,True,USA
+contact_zip/postal_code,1,1,True,94588
+contact_state,1,1,True,CA
+data_row_count,1,1,True,54675

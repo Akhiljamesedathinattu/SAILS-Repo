@@ -1,0 +1,2 @@
+k_final,k_rule,k_min_pac,k_max_silhouette,criteria_agree,silhouette,pac,hclust_kmeans_ari,mean_consensus,n_below_0.6_consensus
+5,minimum PAC over k>=3,5,3,False,0.16228486604983808,0.09010275282843556,0.8937233721008236,0.9087983895295818,111
