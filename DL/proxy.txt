@@ -1,0 +1,8 @@
+HTTP_PROXY	http://akhjam%40bioconacademy.com:ibabuser@proxy.ibab.ac.in:3128
+HTTPS_PROXY	http://akhjam%40bioconacademy.com:ibabuser@proxy.ibab.ac.in:3128
+NO_PROXY	localhost,127.0.0.1
+
+
+
+
+HTTP_PROXY=http://akhjam%40bioconacademy.com:ibabuser@proxy.ibab.ac.in:3128;HTTPS_PROXY=http://akhjam%40bioconacademy.com:ibabuser@proxy.ibab.ac.in:3128;NO_PROXY=localhost,127.0.0.1
