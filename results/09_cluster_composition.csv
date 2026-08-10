@@ -1,6 +1,0 @@
-hclust_cluster,n,dominant_diagnosis,purity
-1,450,CLL,0.9911111111111112
-2,184,T-ALL,0.8967391304347826
-3,571,c-ALL/Pre-B-ALL without t(9;22),0.404553415061296
-4,382,AML with normal karyotype + other abnormalities,0.6335078534031413
-5,509,MDS,0.40471512770137524

@@ -1,3 +1,0 @@
-method,k,adjusted_rand_index,normalized_mutual_info
-hclust_cluster,5,0.5139772227382807,0.6532913674805414
-kmeans_cluster,5,0.5109982573444173,0.641156651288499
